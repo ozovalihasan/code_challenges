@@ -1,0 +1,67 @@
+# Code challenges [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ozovalihasan/code_challenges)
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+![GitHub followers](https://img.shields.io/github/followers/ozovalihasan?label=ozovalihasan&style=social)
+![Twitter URL](https://img.shields.io/twitter/follow/ozovalihasan?label=Follow&style=social)
+
+> This is a repository to save and follow my submissions.
+
+## Description
+
+This repository contains my solutions of challenges.
+
+## Features
+
+Solutions can be tested locally. 
+
+## Built with
+
+- RSpec
+- Git
+
+## Live demo
+
+Any live demo is not available. But, it will be provided soon.
+
+## Setup
+
+- Clone this repository
+- Open terminal
+- Change directory by using `cd code_challenges`
+- Run `bundle install`
+- Test any challenge; i.e. `rspec 36_Valid_Sudoku/*`
+
+
+## Authors
+
+Reach out to me at one of the following places!
+
+👤 **Hasan Özovalı**
+
+- LinkedIn: [Hasan Ozovali](https://www.linkedin.com/in/hasan-ozovali/)
+- Github: [@ozovalihasan](https://github.com/ozovalihasan)
+- Twitter: [@ozovalihasan](https://twitter.com/ozovalihasan)
+- Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
+
+## Contributing 🤝
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ozovalihasan/code_challenges/issues).
+
+## Acknowledgments
+
+Thanks to
+
+- [LeetCode](https://leetcode.com) for providing high quality challenges.
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
