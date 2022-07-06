@@ -10,6 +10,9 @@
 
 This repository contains my solutions of challenges.
 
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+[38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
 ## Features
 
 Solutions can be tested locally. 
