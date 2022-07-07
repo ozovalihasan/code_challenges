@@ -3,8 +3,7 @@ require_relative '../read_test_files'
 
 describe "Solution" do
   challenge_name = "36_Valid_Sudoku"
-  examples = read_examples(challenge_name)
-  results = read_expected_results(challenge_name)
+  examples, results = read_test_files(challenge_name)
 
   describe '#is_valid_sudoku' do
     examples.each_with_index do |example, index|  

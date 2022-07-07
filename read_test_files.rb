@@ -1,3 +1,7 @@
+def read_test_files(challenge_name)
+  [read_files(challenge_name, "examples"), read_files(challenge_name, "expected_results")]
+end
+
 def read_examples(challenge_name)
   read_files(challenge_name, "examples")
 end
