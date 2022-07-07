@@ -8,7 +8,7 @@ describe "Solution" do
   describe '#combination_sum2' do
     examples.each_slice(2).each_with_index do |(candidates, target), index|  
       it "returns all uniq arrays if their elements sum equals to the target" do
-        expect(combination_sum2(candidates, target)).to eq(results[index])
+        expect(combination_sum2(candidates, target).map(&:sort)).to eq(results[index])
       end
     end
   end
