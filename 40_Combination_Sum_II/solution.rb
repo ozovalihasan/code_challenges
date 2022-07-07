@@ -14,6 +14,8 @@ def check(candidates, target, result = [])
       result << [candidate]
     elsif target_new.positive?
       result += check(candidates[(index2 + 1)...], target_new).each { |sub_result| sub_result << candidate }
+    else
+      break
     end
   end
 
