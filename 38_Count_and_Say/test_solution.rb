@@ -1,8 +1,10 @@
 require_relative './solution'
+require_relative '../read_test_files'
 
 describe "Solution" do
-  examples = File.read('./38_Count_and_Say/examples.txt').split.map {|example| eval(example)}
-  results = File.read('./38_Count_and_Say/expected_results.txt').split.map {|result| eval(result)}
+  challenge_name = "38_Count_and_Say"
+  examples = read_examples(challenge_name)
+  results = read_expected_results(challenge_name)
 
   describe '#count_and_say' do
     examples.each_with_index do |example, index|  

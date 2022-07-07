@@ -1,8 +1,10 @@
 require_relative './solution'
+require_relative '../read_test_files'
 
 describe "Solution" do
-  examples = File.read('./36_Valid_Sudoku/examples.txt').split.map {|example| eval(example)}
-  results = File.read('./36_Valid_Sudoku/expected_results.txt').split.map {|result| eval(result)}
+  challenge_name = "36_Valid_Sudoku"
+  examples = read_examples(challenge_name)
+  results = read_expected_results(challenge_name)
 
   describe '#is_valid_sudoku' do
     examples.each_with_index do |example, index|  

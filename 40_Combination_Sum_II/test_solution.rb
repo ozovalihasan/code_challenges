@@ -1,8 +1,10 @@
 require_relative './solution'
+require_relative '../read_test_files'
 
 describe "Solution" do
-  examples = File.read('./40_Combination_Sum_II/examples.txt').split.map {|example| eval(example)}
-  results = File.read('./40_Combination_Sum_II/expected_results.txt').split.map {|result| eval(result)}
+  challenge_name = "40_Combination_Sum_II"
+  examples = read_examples(challenge_name)
+  results = read_expected_results(challenge_name)
 
   describe '#combination_sum2' do
     examples.each_slice(2).each_with_index do |(candidates, target), index|  
@@ -13,3 +15,4 @@ describe "Solution" do
   end
 
 end
+
