@@ -7,5 +7,5 @@ def read_expected_results(challenge_name)
 end
 
 def read_files(challenge_name, file_name)
-  File.read("./#{challenge_name}/#{file_name}.txt").split.map {|example| eval(example)}
+  File.read("#{File.dirname(__FILE__)}/#{challenge_name}/#{file_name}.txt").split.map {|example| eval(example)}
 end
