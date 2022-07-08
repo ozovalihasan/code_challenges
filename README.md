@@ -16,6 +16,8 @@ This repository contains my solutions of challenges.
 
 - [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 
+- [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
 
 ## Features
 
