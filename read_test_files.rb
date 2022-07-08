@@ -11,5 +11,8 @@ def read_expected_results(challenge_name)
 end
 
 def read_files(challenge_name, file_name)
-  File.read("#{File.dirname(__FILE__)}/#{challenge_name}/#{file_name}.txt").split.map {|example| eval(example)}
+  lines = File.read("#{File.dirname(__FILE__)}/#{challenge_name}/#{file_name}.txt").split("\n")
+  lines.reject! {|line| line.delete(" ").empty? }
+  lines.reject! {|line| line.start_with?(/\s*#/)}
+  lines.map {|example| eval(example)}
 end
