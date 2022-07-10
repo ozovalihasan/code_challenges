@@ -2,8 +2,7 @@ require_relative './solution'
 require_relative '../read_test_files'
 
 describe "Solution" do
-  challenge_name = "40_Combination_Sum_II"
-  examples, results = read_test_files(challenge_name)
+  examples, results = read_test_files.values_at(:examples, :results)
 
   describe '#combination_sum2' do
     examples.each_slice(2).each_with_index do |(candidates, target), index|  

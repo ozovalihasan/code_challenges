@@ -2,8 +2,7 @@ require_relative './solution'
 require_relative '../read_test_files'
 
 describe "Solution" do
-  challenge_name = "45_Jump_Game_II"
-  examples, results = read_test_files(challenge_name)
+  examples, results = read_test_files.values_at(:examples, :results)
 
   describe '#jump' do
     examples.each_with_index do |nums, index|  
