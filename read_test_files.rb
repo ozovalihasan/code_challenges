@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def read_test_files(folder_name = nil)
   folder_name = File.dirname(caller_locations(1, 1).first.path) if folder_name.nil?
 

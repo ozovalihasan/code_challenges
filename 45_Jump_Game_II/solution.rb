@@ -4,7 +4,8 @@ def jump(nums)
   return 0 if nums.size == 1
 
   nums.map!.with_index { |num, index| num + index }
-  index, jump = 0, 0 
+  index = 0
+  jump = 0
   loop do
     num = nums[index]
     return jump + 1 if num >= (nums.size - 1)
