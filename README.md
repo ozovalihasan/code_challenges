@@ -20,6 +20,7 @@ This repository contains my solutions of challenges.
 
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
+- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 ## Features
 
