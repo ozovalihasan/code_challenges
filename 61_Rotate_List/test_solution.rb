@@ -8,8 +8,9 @@ describe 'Solution' do
   describe '#rotate_right' do
     examples.each_slice(2).each_with_index do |(arr, k), index|
       it 'returns a rotated list' do
-        head = LinkedList.new(arr)
-        expect(rotate_right(head, k).to_a).to eq(results[index])
+        linked_list = LinkedList.new(arr)
+        linked_list.head = rotate_right(linked_list.head, k)
+        expect(linked_list.to_a).to eq(results[index])
       end
       
     end
