@@ -10,4 +10,33 @@
 # @param {Integer} k
 # @return {ListNode}
 def rotate_right(head, k)
+  return head if k.zero?
+  return head if head.nil?
+  
+  size = 0
+  node = head
+  until node.nil?
+    size += 1
+    node = node.next
+  end
+  k = k % size
+  return head if k.zero?
+
+  count = 0
+  node = head
+  until (count == (size - k -1))
+    node = node.next
+    count += 1
+  end
+  node_append = head
+  head = node.next
+  node.next = nil
+
+  node_rest = head
+  until node_rest.next.nil?
+    node_rest = node_rest.next
+  end
+  node_rest.next = node_append
+
+  head
 end
