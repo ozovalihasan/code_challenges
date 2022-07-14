@@ -4,12 +4,15 @@ class ListNode
     @val = val
     @next = _next
   end
+  
 end
 
 class LinkedList
   attr_accessor :head
 
   def initialize(arr)
+    return @head = nil if arr.empty?
+    
     @head = ListNode.new(arr.first)
     node = @head
 
