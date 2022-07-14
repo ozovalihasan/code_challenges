@@ -24,6 +24,8 @@ This repository contains my solutions of challenges.
 
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
+- [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+
 - [65. Valid Number](https://leetcode.com/problems/valid-number/)
 
 ## Features
