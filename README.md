@@ -28,6 +28,8 @@ This repository contains my solutions of challenges.
 
 - [65. Valid Number](https://leetcode.com/problems/valid-number/)
 
+- [68. Text Justification](https://leetcode.com/problems/text-justification/)
+
 ## Features
 
 Solutions can be tested locally. 
