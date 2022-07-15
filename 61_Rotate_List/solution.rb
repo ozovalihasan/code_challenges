@@ -12,7 +12,7 @@
 def rotate_right(head, k)
   return head if k.zero?
   return head if head.nil?
-  
+
   size = 0
   node = head
   until node.nil?
@@ -24,7 +24,7 @@ def rotate_right(head, k)
 
   count = 0
   node = head
-  until (count == (size - k -1))
+  until count == (size - k - 1)
     node = node.next
     count += 1
   end
@@ -33,9 +33,7 @@ def rotate_right(head, k)
   node.next = nil
 
   node_rest = head
-  until node_rest.next.nil?
-    node_rest = node_rest.next
-  end
+  node_rest = node_rest.next until node_rest.next.nil?
   node_rest.next = node_append
 
   head

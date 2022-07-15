@@ -6,11 +6,9 @@ describe 'Solution' do
 
   describe '#is_number' do
     examples.each_with_index do |str, index|
-
       it 'returns whether the given string is a number or not' do
         expect(is_number(str)).to eq(results[index])
       end
-      
     end
   end
 end

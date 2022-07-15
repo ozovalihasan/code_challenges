@@ -12,7 +12,6 @@ describe 'Solution' do
         linked_list.head = rotate_right(linked_list.head, k)
         expect(linked_list.to_a).to eq(results[index])
       end
-      
     end
   end
 end

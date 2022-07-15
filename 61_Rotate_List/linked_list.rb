@@ -1,10 +1,10 @@
 class ListNode
   attr_accessor :val, :next
+
   def initialize(val = 0, _next = nil)
     @val = val
     @next = _next
   end
-  
 end
 
 class LinkedList
@@ -12,7 +12,7 @@ class LinkedList
 
   def initialize(arr)
     return @head = nil if arr.empty?
-    
+
     @head = ListNode.new(arr.first)
     node = @head
 
@@ -32,5 +32,4 @@ class LinkedList
     end
     arr
   end
-  
 end

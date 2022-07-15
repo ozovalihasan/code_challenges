@@ -9,7 +9,6 @@ describe 'Solution' do
       it 'returns an array containing a formatted text' do
         expect(full_justify(words, max_width)).to eq(results[index])
       end
-      
     end
   end
 end
