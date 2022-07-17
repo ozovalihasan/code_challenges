@@ -28,6 +28,8 @@ This repository contains my solutions of challenges.
 
 - [65. Valid Number](https://leetcode.com/problems/valid-number/)
 
+- [67. Add Binary](https://leetcode.com/problems/add-binary/)
+
 - [68. Text Justification](https://leetcode.com/problems/text-justification/)
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
