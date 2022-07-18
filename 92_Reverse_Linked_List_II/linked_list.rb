@@ -11,16 +11,17 @@ class LinkedList
   attr_accessor :head
 
   def initialize(arr)
-    return @head = nil if arr.empty?
+    if arr.empty?
+      @head = nil
+    else
+      @head = ListNode.new(arr.first)
+      node = @head
 
-    @head = ListNode.new(arr.first)
-    node = @head
-
-    arr[1..].each do |val|
-      node.next = ListNode.new(val)
-      node = node.next
+      arr[1..].each do |val|
+        node.next = ListNode.new(val)
+        node = node.next
+      end
     end
-    @head
   end
 
   def to_a
