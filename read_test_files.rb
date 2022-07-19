@@ -19,5 +19,6 @@ def read_files(folder_name, file_name)
   lines = File.read("#{folder_name}/#{file_name}.txt").split("\n")
   lines.reject! { |line| line.delete(' ').empty? }
   lines.reject! { |line| line.start_with?(/\s*#/) }
+  lines.each { |example| example.gsub!("null", "nil") }
   lines.map { |example| eval(example) }
 end
