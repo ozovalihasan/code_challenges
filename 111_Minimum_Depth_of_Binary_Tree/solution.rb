@@ -15,6 +15,7 @@
 ################
 def min_depth(root)
   return 0 if root.nil?
+
   @depth = Float::INFINITY
   check_nodes(root, 1)
   @depth
@@ -22,13 +23,10 @@ end
 
 def check_nodes(node, count)
   return if node.nil?
-  
-  if node.left.nil? && node.right.nil? 
-    @depth = count if count < @depth
-  end
+
+  @depth = count if node.left.nil? && node.right.nil? && (count < @depth)
   check_nodes(node.left, count + 1)
   check_nodes(node.right, count + 1)
-  
 end
 
 ################
