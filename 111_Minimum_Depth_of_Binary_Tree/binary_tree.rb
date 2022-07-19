@@ -13,18 +13,28 @@ class Tree
 
   attr_accessor :root
   def initialize(arr)
-    @root = TreeNode.new arr.first
-    add_node(@root, arr, 0)
+    val = arr.shift
+    
+    @root = if val
+      TreeNode.new val 
+    else
+      nil
+    end
+    
+    nodes = [@root]
+    until arr.empty?
+      new_nodes = []
+      nodes.each do |node|
+        val = arr.shift
+        node.left = TreeNode.new(val) if val
+        new_nodes << node.left if node.left 
+
+        val = arr.shift
+        node.right = TreeNode.new(val) if val
+        new_nodes << node.right if node.right 
+      end
+      nodes = new_nodes 
+
+    end
   end
-
-  def add_node(node, arr, index)
-    left_index = index * 2 + 1
-    node.left = TreeNode.new(arr[left_index])
-    add_node(node.left, arr, left_index) if node.left.val
-
-    right_index = index * 2 + 2
-    node.right = TreeNode.new(arr[right_index])
-    add_node(node.right, arr, right_index) if node.right.val
-  end
-
 end
