@@ -36,6 +36,8 @@ This repository contains my solutions of challenges.
 
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
+- [112. Path Sum](https://leetcode.com/problems/path-sum/)
+
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 
