@@ -34,6 +34,8 @@ This repository contains my solutions of challenges.
 
 - [68. Text Justification](https://leetcode.com/problems/text-justification/)
 
+- [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
