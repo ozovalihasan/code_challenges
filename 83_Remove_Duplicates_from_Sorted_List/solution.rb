@@ -9,5 +9,18 @@
 # @param {ListNode} head
 # @return {ListNode}
 def delete_duplicates(head)
+  check_node(head)
+  head
+end
+
+def check_node(node)
+  until node.nil?
+
+    while node.next&.val == node.val
+      node.next = node.next.next
+    end
     
+    node = node.next
+    
+  end
 end
