@@ -50,6 +50,8 @@ This repository contains my solutions of challenges.
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
+- [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
 
 ## Features
 
