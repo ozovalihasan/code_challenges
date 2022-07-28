@@ -50,6 +50,8 @@ This repository contains my solutions of challenges.
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
+- [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
