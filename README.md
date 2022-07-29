@@ -56,6 +56,9 @@ This repository contains my solutions of challenges.
 
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 
+- [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+
+
 
 ## Features
 
