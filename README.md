@@ -58,6 +58,8 @@ This repository contains my solutions of challenges.
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
+- [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+
 
 
 ## Features
