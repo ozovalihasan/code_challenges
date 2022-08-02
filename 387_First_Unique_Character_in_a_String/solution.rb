@@ -1,17 +1,13 @@
 # @param {String} s
 # @return {Integer}
 def first_uniq_char(s)
-  hash = {}
+  alphabet = "abcdefghijklmnopqrstuvwxyz"
 
-  s.chars.each do |char|
-    if hash[char] 
-      next
-    elsif s.count(char) == 1
-      return s.index(char)
-    else
-      hash[char] = true
-    end
-  end
+  alphabet
+    .chars
+    .select {|char| s.count(char) == 1 }
+    .map {|char| s.index char}
+    .min || -1
   
-  -1
+  
 end
