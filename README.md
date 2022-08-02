@@ -58,6 +58,8 @@ This repository contains my solutions of challenges.
 
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 
+- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
