@@ -60,6 +60,8 @@ This repository contains my solutions of challenges.
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
+- [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
