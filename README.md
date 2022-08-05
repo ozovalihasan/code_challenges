@@ -70,6 +70,8 @@ This repository contains my solutions of challenges.
 
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
 
 
 ## Features
