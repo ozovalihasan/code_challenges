@@ -3,11 +3,14 @@
 # @return {Integer}
 def find_judge(n, trust)
   return n if n == 1
-
-  possible_judge = trust.group_by(&:last).find {|_, pair| pair.size == (n - 1)}&.first
-  if possible_judge && trust.none? {|arr| arr.first == possible_judge}
-    return possible_judge
-  end
   
+  hash = Hash.new(0)
+  trust.each do |(first,second)|
+    hash[second] += 1
+    hash[first] -= 1
+  end
+
+  possible_judge = hash.find{|_, val| val == n-1}
+  return possible_judge.first if possible_judge
   -1
 end
