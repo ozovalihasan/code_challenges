@@ -1,9 +1,9 @@
 # @param {Integer[]} flowerbed
 # @param {Integer} n
 # @return {Boolean}
-def can_place_flowers(flowerbed, n)
-  needed_plots = n * 2
-  while flowerbed.first do
+def can_place_flowers(flowerbed, needed_plots)
+  needed_plots *= 2
+  until flowerbed.empty? do
     if flowerbed.pop.zero?
       needed_plots -= 1
     else
