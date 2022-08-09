@@ -54,6 +54,8 @@ This repository contains my solutions of challenges.
 
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
