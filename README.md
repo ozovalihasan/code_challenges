@@ -72,6 +72,8 @@ This repository contains my solutions of challenges.
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
+- [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
+
 - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
