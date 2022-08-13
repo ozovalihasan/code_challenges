@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#find_substring' do
     examples.each_slice(2).each_with_index do |(s, words), index|
       it 'returns all start indexes of a concatenation of each word in words' do
-        expect(find_substring(s, words)).to eq(results[index])
+        expect(find_substring(s, words)).to match_array(results[index])
       end
     end
   end
