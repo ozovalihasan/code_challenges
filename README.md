@@ -54,6 +54,8 @@ This repository contains my solutions of challenges.
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
