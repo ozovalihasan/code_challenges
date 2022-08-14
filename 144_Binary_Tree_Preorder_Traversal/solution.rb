@@ -10,5 +10,7 @@
 # @param {TreeNode} root
 # @return {Integer[]}
 def preorder_traversal(root)
-    
+  return [] if root.nil?
+  
+  [root.val, *preorder_traversal(root.left), *preorder_traversal(root.right)]
 end
