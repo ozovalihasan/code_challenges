@@ -62,6 +62,8 @@ This repository contains my solutions of challenges.
 
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
+- [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
