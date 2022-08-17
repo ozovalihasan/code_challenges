@@ -92,6 +92,8 @@ This repository contains my solutions of challenges.
 
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
+- [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+
 
 
 ## Features
