@@ -86,6 +86,8 @@ This repository contains my solutions of challenges.
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
+- [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
