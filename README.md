@@ -96,6 +96,8 @@ This repository contains my solutions of challenges.
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
+- [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
+
 
 
 ## Features
