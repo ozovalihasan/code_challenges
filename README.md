@@ -68,6 +68,8 @@ This repository contains my solutions of challenges.
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
+- [335. Self Crossing](https://leetcode.com/problems/self-crossing/)
+
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
