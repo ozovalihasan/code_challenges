@@ -76,6 +76,8 @@ This repository contains my solutions of challenges.
 
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
+- [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
