@@ -96,6 +96,8 @@ This repository contains my solutions of challenges.
 
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
+- [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
