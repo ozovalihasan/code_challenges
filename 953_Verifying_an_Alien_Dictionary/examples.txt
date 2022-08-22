@@ -4,3 +4,7 @@
 "worldabcefghijkmnpqstuvxyz"
 ["apple","app"]
 "abcdefghijklmnopqrstuvwxyz"
+["hello","hello"]
+"abcdefghijklmnopqrstuvwxyz"
+["app","apple"]
+"abcdefghijklmnopqrstuvwxyz"
