@@ -92,6 +92,8 @@ This repository contains my solutions of challenges.
 
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
+- [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
+
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
