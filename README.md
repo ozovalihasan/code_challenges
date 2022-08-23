@@ -90,6 +90,8 @@ This repository contains my solutions of challenges.
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
+- [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
