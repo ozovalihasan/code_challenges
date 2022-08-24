@@ -64,6 +64,8 @@ This repository contains my solutions of challenges.
 
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
