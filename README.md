@@ -104,6 +104,8 @@ This repository contains my solutions of challenges.
 
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
+- [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
