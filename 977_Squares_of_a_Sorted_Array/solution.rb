@@ -28,5 +28,26 @@ end
 # # @param {Integer[]} nums
 # # @return {Integer[]}
 # def sorted_squares(nums)
+#   result = []
+#   nums.map!(&:abs2)
+  
+#   until nums.empty?
+#     if nums.last > nums.first
+#       result << nums.pop
+#     else
+#       result << nums.shift
+#     end
+#   end
+  
+#   result.reverse
+# end
+
+
+##################
+## 3. Solution
+##################
+# # @param {Integer[]} nums
+# # @return {Integer[]}
+# def sorted_squares(nums)
 #   nums.map {|num| num * num}.sort
 # end
