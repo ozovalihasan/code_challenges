@@ -56,6 +56,8 @@ This repository contains my solutions of challenges.
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
