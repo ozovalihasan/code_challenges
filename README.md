@@ -76,6 +76,8 @@ This repository contains my solutions of challenges.
 
 - [335. Self Crossing](https://leetcode.com/problems/self-crossing/)
 
+- [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
