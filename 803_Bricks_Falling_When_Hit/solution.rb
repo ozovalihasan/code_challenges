@@ -1,9 +1,7 @@
-# @param {Integer[][]} grid
-# @param {Integer[][]} hits
 # @return {Integer[]}
 def hit_bricks(grid, hits)
   hits.each do |(row, col)|
-    grid[row][col] = "hit" if grid[row][col] == 1 
+    grid[row][col] = :hit if grid[row][col] == 1 
   end 
   
   hits.reverse!
@@ -20,7 +18,7 @@ def hit_bricks(grid, hits)
     next if grid[row][col] == 0
 
     update = false
-    if grid[row][col] == "hit"
+    if grid[row][col] == :hit
       if (row > 0 && grid[row - 1][col] == :strong) ||
         (row < grid.size - 1 && grid[row + 1][col] == :strong) ||
         (col > 0 && grid[row][col - 1] == :strong) ||
@@ -43,6 +41,7 @@ def hit_bricks(grid, hits)
     if row == 0 || update == true
       check_coordinates(grid, row, col)
     end
+    
 
   end
 
