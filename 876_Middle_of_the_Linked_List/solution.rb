@@ -9,5 +9,11 @@
 # @param {ListNode} head
 # @return {ListNode}
 def middle_node(head)
+  node = head
 
+  while node&.next
+    head, node = head.next, node.next.next
+  end
+
+  head
 end
