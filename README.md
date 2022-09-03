@@ -130,6 +130,8 @@ This repository contains my solutions of challenges.
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
+- [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+
 
 
 ## Features
