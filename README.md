@@ -88,6 +88,8 @@ This repository contains my solutions of challenges.
 
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
+- [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
