@@ -90,6 +90,8 @@ This repository contains my solutions of challenges.
 
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 
+- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
