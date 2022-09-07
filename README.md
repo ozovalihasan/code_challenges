@@ -102,6 +102,8 @@ This repository contains my solutions of challenges.
 
 - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
+- [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
