@@ -10,5 +10,28 @@
 # @param {TreeNode} root
 # @return {String}
 def tree2str(root)
-    
+  result = ""
+  root.check_node(result)
+  result
+end
+
+class TreeNode
+
+  def check_node(result)
+
+    result << self.val.to_s
+
+    if left || right
+      
+      result << "("
+      left.check_node(result) if left
+      result << ")"
+
+      if right
+        result << "("
+        right.check_node(result)
+        result << ")"
+      end
+    end
+  end
 end
