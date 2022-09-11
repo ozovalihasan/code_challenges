@@ -118,6 +118,8 @@ This repository contains my solutions of challenges.
 
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
+- [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
