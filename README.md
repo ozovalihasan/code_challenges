@@ -146,6 +146,8 @@ This repository contains my solutions of challenges.
 
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
+- [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+
 
 
 ## Features
