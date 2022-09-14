@@ -60,6 +60,8 @@ This repository contains my solutions of challenges.
 
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
+- [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
