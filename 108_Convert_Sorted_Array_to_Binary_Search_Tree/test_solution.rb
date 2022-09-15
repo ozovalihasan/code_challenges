@@ -8,7 +8,7 @@ describe 'Solution' do
   describe '#reverse_between' do
     examples.each_with_index do |nums, index|
       it 'returns an a height-balanced binary search tree converted from an integer array nums' do
-        expect(sorted_array_to_bst(nums).to_a).to eq(results[index])
+        expect(results[index]).to include(sorted_array_to_bst(nums).to_a)
       end
     end
   end
