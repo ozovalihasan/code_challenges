@@ -42,6 +42,8 @@ This repository contains my solutions of challenges.
 
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 - [112. Path Sum](https://leetcode.com/problems/path-sum/)
