@@ -154,6 +154,8 @@ This repository contains my solutions of challenges.
 
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
+- [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
+
 
 
 ## Features
