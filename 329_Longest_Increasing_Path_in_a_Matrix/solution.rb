@@ -6,7 +6,6 @@ def longest_increasing_path(matrix)
   @row_size = matrix.first.size
   @hash = Array.new(@size) {Array.new(@row_size, nil)}
   @steps = [[1,0], [-1, 0], [0, 1], [0, -1]]
-  @max = 0
   
   matrix.each_with_index do |row, index_1|
     row.each_with_index do |_, index_2|
@@ -14,7 +13,7 @@ def longest_increasing_path(matrix)
     end
   end
 
-  @max
+  @hash.map(&:max).max
 end
 
 def check_neighbours(index_1, index_2)
@@ -29,7 +28,6 @@ def check_neighbours(index_1, index_2)
     end
   end
 
-  @max = [@max, result].max
   @hash[index_1][index_2] = result
 end
 
