@@ -136,6 +136,8 @@ This repository contains my solutions of challenges.
 
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
+- [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+
 - [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
