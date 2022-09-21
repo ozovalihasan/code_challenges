@@ -138,6 +138,8 @@ This repository contains my solutions of challenges.
 
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
+- [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 - [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
