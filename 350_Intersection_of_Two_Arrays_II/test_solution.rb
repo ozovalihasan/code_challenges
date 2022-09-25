@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#intersect' do
     examples.each_slice(2).each_with_index do |(nums1, nums2), index|
       it 'returns an array of the intersection of the given arrays' do
-        expect(intersect(nums1, nums2)).to eq(results[index])
+        expect(intersect(nums1, nums2)).to match_array(results[index])
       end
     end
   end
