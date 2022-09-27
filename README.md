@@ -176,6 +176,8 @@ This repository contains my solutions of challenges.
 
 - [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
 
+- [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
+
 
 
 ## Features
