@@ -1,7 +1,5 @@
 # Thanks to [yidong_w](https://leetcode.com/yidong_w) for [the solution](https://leetcode.com/problems/tallest-billboard/discuss/219700/Python-DP-clean-solution(1D))
 
-"I solved this challenge by checking another one solution, but it is not clear yet. So, check to make it clearer"
-
 # @param {Integer[]} rods
 # @return {Integer}
 def tallest_billboard(rods)
