@@ -166,6 +166,8 @@ This repository contains my solutions of challenges.
 
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
+- [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
