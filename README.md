@@ -128,6 +128,8 @@ This repository contains my solutions of challenges.
 
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
 
+- [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
+
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
