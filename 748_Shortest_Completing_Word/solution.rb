@@ -4,5 +4,6 @@
 def shortest_completing_word(license_plate, words)
   letters = license_plate.downcase.scan(/[A-Za-z]/).tally
 
-  words.sort_by(&:length).find {|word| letters.all? {|letter, val| word.count(letter) >= val}}
+  words.select {|word| letters.all? {|letter, val| word.count(letter) >= val}}
+       .uniq(&:length).min_by(&:length)
 end
