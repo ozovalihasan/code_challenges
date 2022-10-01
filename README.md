@@ -106,6 +106,8 @@ This repository contains my solutions of challenges.
 
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
+- [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
