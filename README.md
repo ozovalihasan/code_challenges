@@ -110,6 +110,8 @@ This repository contains my solutions of challenges.
 
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
+- [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
 - [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
