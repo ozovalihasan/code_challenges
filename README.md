@@ -166,6 +166,8 @@ This repository contains my solutions of challenges.
 
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
+- [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
+
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
