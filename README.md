@@ -70,6 +70,8 @@ This repository contains my solutions of challenges.
 
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
+- [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
