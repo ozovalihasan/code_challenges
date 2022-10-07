@@ -114,6 +114,8 @@ This repository contains my solutions of challenges.
 
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
+- [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+
 - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
