@@ -190,6 +190,8 @@ This repository contains my solutions of challenges.
 
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
+- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+
 - [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
 
 - [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
