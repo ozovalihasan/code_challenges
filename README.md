@@ -142,6 +142,8 @@ This repository contains my solutions of challenges.
 
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
+- [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
