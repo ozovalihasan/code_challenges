@@ -130,6 +130,8 @@ This repository contains my solutions of challenges.
 
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 
+- [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
