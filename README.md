@@ -116,6 +116,8 @@ This repository contains my solutions of challenges.
 
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
+- [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+
 - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
