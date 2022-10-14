@@ -210,6 +210,8 @@ This repository contains my solutions of challenges.
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
+- [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
+
 
 
 ## Features
