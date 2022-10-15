@@ -108,6 +108,8 @@ This repository contains my solutions of challenges.
 
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
+- [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
