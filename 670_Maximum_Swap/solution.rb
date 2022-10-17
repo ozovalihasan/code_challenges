@@ -12,4 +12,5 @@ def maximum_swap(num)
   num_digits[index], num_digits[index_max_value] = num_digits[index_max_value], num_digits[index]
 
   num_digits.join.to_i
+  
 end
