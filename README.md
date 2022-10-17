@@ -164,6 +164,8 @@ This repository contains my solutions of challenges.
 
 - [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
 
+- [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
