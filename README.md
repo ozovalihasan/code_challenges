@@ -200,6 +200,8 @@ This repository contains my solutions of challenges.
 
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
+- [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
