@@ -60,6 +60,8 @@ This repository contains my solutions of challenges.
 
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+- [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
