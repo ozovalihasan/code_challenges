@@ -196,6 +196,8 @@ This repository contains my solutions of challenges.
 
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
 
+- [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
