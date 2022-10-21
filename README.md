@@ -198,6 +198,8 @@ This repository contains my solutions of challenges.
 
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 
+- [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
