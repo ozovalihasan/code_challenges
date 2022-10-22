@@ -224,6 +224,8 @@ This repository contains my solutions of challenges.
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
+- [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
+
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
 
