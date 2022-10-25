@@ -212,6 +212,8 @@ This repository contains my solutions of challenges.
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
+- [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
