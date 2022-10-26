@@ -126,6 +126,8 @@ This repository contains my solutions of challenges.
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
+- [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+
 - [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 
 - [561. Array Partition](https://leetcode.com/problems/array-partition/)
