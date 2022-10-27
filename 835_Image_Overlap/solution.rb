@@ -5,8 +5,8 @@ def largest_overlap(img1, img2)
   size_row = img1.size
   size_col = img1.first.size
 
-  img1 = matrix_to_one_D_increasing(img1)
-  img2 = matrix_to_one_D_increasing(img2)
+  img1 = matrix_to_array_increasing(img1)
+  img2 = matrix_to_array_increasing(img2)
   
 
   return img1.size if (img1 & img2).size == img1.size
@@ -58,7 +58,7 @@ def largest_overlap(img1, img2)
   
 end
 
-def matrix_to_one_D_increasing(matrix)
+def matrix_to_array_increasing(matrix)
   matrix.flatten
         .map.with_index {|num, index| num == 1 ? index + 1 : 0 }
         .reject(&:zero?)
