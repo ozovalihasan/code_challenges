@@ -158,6 +158,8 @@ This repository contains my solutions of challenges.
 
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 
+- [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
+
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
 - [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
