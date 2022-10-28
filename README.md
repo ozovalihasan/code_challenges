@@ -24,6 +24,8 @@ This repository contains my solutions of challenges.
 
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
