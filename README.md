@@ -154,6 +154,8 @@ This repository contains my solutions of challenges.
 
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
+- [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
