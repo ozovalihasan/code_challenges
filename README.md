@@ -110,6 +110,8 @@ This repository contains my solutions of challenges.
 
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
+- [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
