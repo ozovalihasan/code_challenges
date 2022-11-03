@@ -1,3 +1,4 @@
 ["lc","cl","gg"]
 ["ab","ty","yt","lc","cl","ab"]
 ["cc","ll","xx"]
+["bb","bb"]
