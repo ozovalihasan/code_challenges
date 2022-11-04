@@ -206,6 +206,8 @@ This repository contains my solutions of challenges.
 
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
 
+- [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
+
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
