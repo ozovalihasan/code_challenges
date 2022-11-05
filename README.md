@@ -70,6 +70,8 @@ This repository contains my solutions of challenges.
 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
+- [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/)
+
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
