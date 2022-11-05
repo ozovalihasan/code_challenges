@@ -43,11 +43,22 @@ def find_words(board, words)
   
   words.each_with_index do |word|
     
-    next if word.split("").each_cons(2).any? {|item1, item2| !(board_two[ item1 + item2 ] || board_two[item2 + item1]) } 
+    next if word.chars.each_cons(2).any? {|item1, item2| !(board_two[ item1 + item2 ] || board_two[item2 + item1]) } 
     next if word.size == 1 && board_one[word].nil?
     
     # Our hashes are ready, now we are checking each word. If their necessary parts cannot be found in 'board_one' and 'board_two' hashes, we are skipping them.
     # Then, if they satisfied these two conditions, they are stored in a trie.
+
+    # Let's add one more optimization here. 
+    # If we need to search for "aaba", we can add it as "abaa". Because it is more easier to search.
+    # Let's say we have board as following;
+    # [
+    #   ["a", "a"], 
+    #   ["b", "a"]
+    # ]
+    # If you check each char, you will see that searching for "abaa" is easier than searching for "aaba"
+    #
+    # Only, the number of the repeated characters at the end and at the beginning is important.
 
     filtered_words << word.clone
     if word.match(/^(.)\1*/).offset(0)[1] > word.reverse.match(/^(.)\1*/).offset(0)[1] 
@@ -59,21 +70,21 @@ def find_words(board, words)
   end
 
   # Words are filtered because if all words are checked one by one, it takes a long time. 
-
-  @size = filtered_words.size
-
-  # The size of filtered words are stored because if all words are found on the board, all operations can be stopped immediately.
-
+  
   root = trie.root
   @result = []
   board.each_with_index do |row, index|
     row.each_with_index do |char, index2|
       @found = false
       if root.chars[char]
-        check(board, root, index, index2, 0)
+        check(board, root, index, index2)
       end
     end
   end
+
+  # Do you remember the previous optimization? 
+  # If "aaba" is one of the found words on the board, it is added into the result array as "abaa".
+  # To fix this issue, we need to check each word in the result array
 
   @result.map do |word|
     filtered_words.include?(word) ? word : word.reverse
@@ -102,6 +113,11 @@ def check(board, trie_node, index, index2)
     check(board, node, index, index2+1)
   end
   
+  
+  # It is necessary to remove characters from the trie if a word is found.
+  # If one word is found, it is not necessary check it again.
+  # This part is not easy to implement. So, if you need more explanation, please let me know it.
+
   if node.word
     @result << node.word 
     node.word = nil
@@ -117,9 +133,6 @@ def check(board, trie_node, index, index2)
     end
   end
 
-  # The stored size is used here to stop all operations. Also, we are using uniq method because same word can be added multiple times
-  return if @result.uniq.size == @size
-  
   # When all possible directions are checked, the used cell is updated with the original ones.
   board[index][index2] = char
 end
