@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#find_words' do
     examples.each_slice(2).each_with_index do |(board, words), index|
       it "returns all words on the board" do
-        expect(find_words(board, words)).to eq(results[index])
+        expect(find_words(board, words)).to match_array(results[index])
       end
     end
   end
