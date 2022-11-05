@@ -81,30 +81,26 @@ def find_words(board, words)
 
 end
 
-def check(board, trie_node, index, index2, step)
+def check(board, trie_node, index, index2)
   node = trie_node.chars[ board[index][index2] ]
-  # p trie_node
 
   # Not to use same characters, the used characters are changed with "#" and the original ones are stored.
   char = board[index][index2]
   board[index][index2] = "#"
   
   # We are checking possible 4 directions.
-  step += 1
   if index > 0 && node.chars[ board[index-1][index2] ]
-    check(board, node, index-1, index2, step)
+    check(board, node, index-1, index2)
   end
   if board[index+1] && node.chars[ board[index+1][index2] ]
-    check(board, node, index+1, index2, step)
+    check(board, node, index+1, index2)
   end
   if index2 > 0 && node.chars[ board[index][index2-1] ]
-    check(board, node, index, index2-1, step)
+    check(board, node, index, index2-1)
   end
   if node.chars[ board[index][index2+1] ]
-    check(board, node, index, index2+1, step)
+    check(board, node, index, index2+1)
   end
-
-  
   
   if node.word
     @result << node.word 
