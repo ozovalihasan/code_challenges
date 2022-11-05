@@ -224,6 +224,8 @@ This repository contains my solutions of challenges.
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 
+- [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
