@@ -180,6 +180,8 @@ This repository contains my solutions of challenges.
 
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 
+- [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
