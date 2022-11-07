@@ -224,6 +224,8 @@ This repository contains my solutions of challenges.
 
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 
+- [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
