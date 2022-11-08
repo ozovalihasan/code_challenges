@@ -232,6 +232,8 @@ This repository contains my solutions of challenges.
 
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
+- [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
+
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
