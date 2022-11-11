@@ -6,8 +6,9 @@ describe 'Solution' do
 
   describe '#remove_duplicates' do
     examples.each_with_index do |nums, index|
-      it "returns the final array by removing the dublicated elements" do
-        expect(remove_duplicates(nums)).to eq(results[index])
+      it "returns k after placing the final result in the first k slots of nums" do
+        expect(remove_duplicates(nums)).to eq(nums.size)
+        expect(nums).to eq(results[index])
       end
     end
   end
