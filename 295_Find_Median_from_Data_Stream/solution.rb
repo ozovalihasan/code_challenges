@@ -1,6 +1,6 @@
 class MedianFinder
   def initialize()
-      
+    @arr = []
   end
 
 
@@ -9,7 +9,8 @@ class MedianFinder
   :rtype: Void
 =end
   def add_num(num)
-      
+    index = @arr.bsearch_index {|el| el > num } || @arr.size
+    @arr.insert(index, num)
   end
 
 
@@ -17,7 +18,12 @@ class MedianFinder
   :rtype: Float
 =end
   def find_median()
-      
+    half = @arr.size / 2
+    if @arr.size.odd?
+      return @arr[ half ].to_f
+    else
+      return @arr[ (half - 1)..half ].sum / 2.0
+    end
   end
 
 
