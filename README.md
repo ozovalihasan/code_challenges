@@ -88,6 +88,8 @@ This repository contains my solutions of challenges.
 
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
+- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
 - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
