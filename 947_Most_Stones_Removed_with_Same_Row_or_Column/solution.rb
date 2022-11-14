@@ -2,27 +2,27 @@
 # @return {Integer}
 def remove_stones(stones)
 
-  @hash = {}
+  @checked = {}
 
   @group_by_first = stones.group_by(&:first)
   @group_by_second = stones.group_by(&:last)
 
-  @result = 0
+  @not_remove = 0
   
   stones.each_with_index do |stone, index|
-    @result += 1 unless @hash[stone]
+    @not_remove += 1 unless @checked[stone]
     check_stones(stone, index)
   end
 
-  stones.size - @result
+  stones.size - @not_remove
     
 end
 
 def check_stones(stone, index)
   
-  unless @hash[stone]
+  unless @checked[stone]
     
-    @hash[stone] = true
+    @checked[stone] = true
 
     pairs = @group_by_first[stone.first]
     until pairs.empty?
