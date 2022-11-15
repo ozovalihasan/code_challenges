@@ -78,6 +78,8 @@ This repository contains my solutions of challenges.
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
 - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
