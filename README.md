@@ -88,6 +88,8 @@ This repository contains my solutions of challenges.
 
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
+- [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
