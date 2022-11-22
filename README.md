@@ -92,6 +92,8 @@ This repository contains my solutions of challenges.
 
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
+- [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
