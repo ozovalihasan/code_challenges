@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#exist' do
     examples.each_slice(2).each_with_index do |(board, word), index|
       it 'returns true if word exists in the grid' do
-        expect(exist(board, word)).to eq(results[index])
+        expect(exist?(board, word)).to eq(results[index])
       end
     end
   end

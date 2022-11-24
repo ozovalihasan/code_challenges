@@ -1,6 +1,9 @@
 # @param {Character[][]} board
 # @param {String} word
 # @return {Boolean}
-def exist(board, word)
-    
+##########################
+# The original method is `exist`, but this name is causing an issue. So, it is changed as `exist?`
+##########################
+def exist?(board, word)
+  
 end
