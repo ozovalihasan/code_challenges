@@ -134,6 +134,8 @@ This repository contains my solutions of challenges.
 
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
+- [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
