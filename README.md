@@ -294,6 +294,8 @@ This repository contains my solutions of challenges.
 
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 
+- [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
