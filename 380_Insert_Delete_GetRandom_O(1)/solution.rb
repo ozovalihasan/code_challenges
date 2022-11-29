@@ -1,6 +1,8 @@
 class RandomizedSet
+  attr_reader :current_arr
+  
   def initialize()
-      
+    @current_arr = {}
   end
 
 
@@ -9,7 +11,8 @@ class RandomizedSet
   :rtype: Boolean
 =end
   def insert(val)
-      
+    return false if @current_arr[val]
+    @current_arr[val] = true
   end
 
 
@@ -18,7 +21,9 @@ class RandomizedSet
   :rtype: Boolean
 =end
   def remove(val)
-      
+    return false unless @current_arr[val]
+    @current_arr.delete(val)
+    true
   end
 
 
@@ -26,7 +31,7 @@ class RandomizedSet
   :rtype: Integer
 =end
   def get_random()
-      
+    @current_arr.keys.sample
   end
 
 
