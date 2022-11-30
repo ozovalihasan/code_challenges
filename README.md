@@ -266,6 +266,8 @@ This repository contains my solutions of challenges.
 
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
+- [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
