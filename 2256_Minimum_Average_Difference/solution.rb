@@ -1,14 +1,23 @@
 # @param {Integer[]} nums
 # @return {Integer}
 def minimum_average_difference(nums)
-  sum1 = 0
-  sum2 = nums.sum
+  sum_right = nums.sum
+  right_size = nums.size
+  
+  sum_left = 0
+  left_size = 0
 
   diff = 1.upto(nums.size - 1).map do |index|
-    sum1 += nums[index - 1]
-    sum2 -= nums[index - 1]
-    ((sum1 / index) - (sum2 / (nums.size - index))).abs
-  end << (nums.sum / nums.size).abs
+    sum_right -= nums[index - 1]
+    right_size -= 1
+    
+    sum_left += nums[index - 1]
+    left_size += 1
+
+    ((sum_left / left_size) - (sum_right / right_size)).abs
+  end 
+
+  diff << (nums.sum / nums.size).abs
   
   diff.index(diff.min)
 end
