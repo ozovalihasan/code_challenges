@@ -314,6 +314,8 @@ This repository contains my solutions of challenges.
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
+- [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
+
 
 
 ## Features
