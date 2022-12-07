@@ -220,6 +220,8 @@ This repository contains my solutions of challenges.
 
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
+- [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
 - [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 
 - [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
