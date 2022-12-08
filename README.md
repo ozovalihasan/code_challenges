@@ -202,6 +202,8 @@ This repository contains my solutions of challenges.
 
 - [868. Binary Gap](https://leetcode.com/problems/binary-gap/)
 
+- [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
