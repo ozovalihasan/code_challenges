@@ -242,6 +242,8 @@ This repository contains my solutions of challenges.
 
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 
+- [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
