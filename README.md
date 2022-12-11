@@ -60,6 +60,8 @@ This repository contains my solutions of challenges.
 
 - [120. Triangle](https://leetcode.com/problems/triangle/)
 
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
