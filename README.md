@@ -42,6 +42,8 @@ This repository contains my solutions of challenges.
 
 - [68. Text Justification](https://leetcode.com/problems/text-justification/)
 
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
 - [79. Word Search](https://leetcode.com/problems/word-search/)
 
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
