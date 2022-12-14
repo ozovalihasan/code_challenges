@@ -78,6 +78,8 @@ This repository contains my solutions of challenges.
 
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
+- [198. House Robber](https://leetcode.com/problems/house-robber/)
+
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
