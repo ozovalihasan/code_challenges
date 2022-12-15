@@ -260,6 +260,8 @@ This repository contains my solutions of challenges.
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
 
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
