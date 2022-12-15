@@ -4,3 +4,7 @@
 "abc"
 "abc"
 "def"
+"deabcadec"
+"abadedec"
+"deabccadeaddecc"
+"abadecdecc"
