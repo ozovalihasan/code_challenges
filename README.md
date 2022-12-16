@@ -94,6 +94,8 @@ This repository contains my solutions of challenges.
 
 - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
