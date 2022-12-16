@@ -4,7 +4,7 @@ require_relative '../read_test_files'
 describe 'Solution' do
   examples, results = read_test_files.values_at(:examples, :results)
 
-  describe 'MedianFinder' do
+  describe 'RandomizedSet' do
     examples.each_slice(2).each_with_index do |(actions, params), index|
       it "returns the median value" do
         arr = RandomizedSet.new
