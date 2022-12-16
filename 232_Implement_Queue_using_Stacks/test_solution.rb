@@ -11,6 +11,8 @@ describe 'Solution' do
 
         actions.zip(params).each_with_index do |(action, param), index2|
           case action
+          when "push"
+            queue.push(*param)
           when "pop"
             expect(queue.pop).to eq(results[index][index2])
           when "peek"
