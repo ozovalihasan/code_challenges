@@ -1,6 +1,6 @@
 class MyQueue
   def initialize()
-      
+    @arr = []
   end
 
 
@@ -9,7 +9,7 @@ class MyQueue
   :rtype: Void
 =end
   def push(x)
-      
+    @arr << x
   end
 
 
@@ -17,7 +17,7 @@ class MyQueue
   :rtype: Integer
 =end
   def pop()
-      
+    @arr.shift
   end
 
 
@@ -25,7 +25,7 @@ class MyQueue
   :rtype: Integer
 =end
   def peek()
-      
+    @arr.first
   end
 
 
@@ -33,7 +33,7 @@ class MyQueue
   :rtype: Boolean
 =end
   def empty()
-      
+    @arr.empty?
   end
 
 
