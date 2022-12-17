@@ -70,6 +70,8 @@ This repository contains my solutions of challenges.
 
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
 
+- [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
 - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
