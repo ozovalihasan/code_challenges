@@ -198,6 +198,8 @@ This repository contains my solutions of challenges.
 
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
 
+- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
