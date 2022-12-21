@@ -220,6 +220,8 @@ This repository contains my solutions of challenges.
 
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
+- [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+
 - [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
 
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
