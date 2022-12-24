@@ -202,6 +202,8 @@ This repository contains my solutions of challenges.
 
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
+- [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
