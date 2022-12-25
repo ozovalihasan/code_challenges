@@ -352,6 +352,8 @@ This repository contains my solutions of challenges.
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
+- [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
