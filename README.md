@@ -352,6 +352,8 @@ This repository contains my solutions of challenges.
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
+- [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
