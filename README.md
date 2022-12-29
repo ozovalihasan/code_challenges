@@ -326,6 +326,8 @@ This repository contains my solutions of challenges.
 
 - [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
+- [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
+
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
