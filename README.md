@@ -264,6 +264,8 @@ This repository contains my solutions of challenges.
 
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
+- [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 - [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
