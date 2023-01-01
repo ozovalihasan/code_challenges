@@ -2,8 +2,9 @@
 # @param {String} s
 # @return {Boolean}
 def word_pattern(pattern, s)
-  pattern = pattern.chars
-  s = s.split
+  extract_numeric_pattern( s.split(" ") ) == extract_numeric_pattern( pattern.chars )
+end
 
-  s.size == pattern.size && s.uniq.size == pattern.uniq.size && s.zip(pattern).uniq.size == s.uniq.size
+def extract_numeric_pattern(arr)
+  arr.each_with_index.with_object({}) { |(item, index), hash| ( hash[item] ||= [] ) << index }.values
 end
