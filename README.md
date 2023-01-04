@@ -358,6 +358,8 @@ This repository contains my solutions of challenges.
 
 - [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 
+- [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+
 - [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
