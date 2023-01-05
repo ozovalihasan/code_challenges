@@ -156,6 +156,8 @@ This repository contains my solutions of challenges.
 
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 
+- [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
