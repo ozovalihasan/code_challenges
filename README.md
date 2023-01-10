@@ -292,6 +292,8 @@ This repository contains my solutions of challenges.
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
+- [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
+
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
