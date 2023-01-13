@@ -378,6 +378,8 @@ This repository contains my solutions of challenges.
 
 - [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 
+- [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+
 - [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
