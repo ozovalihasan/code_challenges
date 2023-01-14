@@ -292,6 +292,8 @@ This repository contains my solutions of challenges.
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
+- [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
+
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
