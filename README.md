@@ -30,6 +30,8 @@ This repository contains my solutions of challenges.
 
 - [55. Jump Game](https://leetcode.com/problems/jump-game/)
 
+- [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
