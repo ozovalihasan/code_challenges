@@ -258,6 +258,8 @@ This repository contains my solutions of challenges.
 
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
+- [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+
 - [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
 
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
