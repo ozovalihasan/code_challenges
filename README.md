@@ -256,6 +256,8 @@ This repository contains my solutions of challenges.
 
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
 
+- [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
 - [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
