@@ -278,6 +278,8 @@ This repository contains my solutions of challenges.
 
 - [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 
+- [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
