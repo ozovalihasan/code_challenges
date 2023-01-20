@@ -176,6 +176,8 @@ This repository contains my solutions of challenges.
 
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
+- [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
+
 - [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 
 - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
