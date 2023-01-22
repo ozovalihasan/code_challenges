@@ -74,6 +74,8 @@ This repository contains my solutions of challenges.
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
+- [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
 - [134. Gas Station](https://leetcode.com/problems/gas-station/)
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
