@@ -410,6 +410,8 @@ This repository contains my solutions of challenges.
 
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
+- [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
+
 
 
 ## Features
