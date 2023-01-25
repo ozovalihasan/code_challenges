@@ -400,6 +400,8 @@ This repository contains my solutions of challenges.
 
 - [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
 
+- [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
+
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
