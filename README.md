@@ -176,6 +176,8 @@ This repository contains my solutions of challenges.
 
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
+- [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)
+
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
