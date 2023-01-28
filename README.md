@@ -144,6 +144,8 @@ This repository contains my solutions of challenges.
 
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
+- [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 - [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
