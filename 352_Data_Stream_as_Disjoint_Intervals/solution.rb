@@ -8,29 +8,24 @@ class SummaryRanges
   :rtype: Void
 =end
   def add_num(value)
-    if @ranges.empty?
-      @ranges << [value, value]
+    index = @ranges.bsearch_index {|first, last| last >= value}
+
+    if index
+      return if value.between?(*@ranges[index])
     else
-      index = @ranges.bsearch_index {|first, last| last >= value}
+      index = @ranges.size
+    end
 
-      if index
-        return if value.between?(*@ranges[index])
-      else
-        index = @ranges.size
-      end
+    @ranges.insert(index, [value, value])
 
-      @ranges.insert(index, [value, value])
-
-      if index > 0 && necessary_merge_with_previous_one?(index)
-        merge_interval_with_previous_one(index)
-      else
-        index += 1
-      end
-      
-      if @ranges[index] && necessary_merge_with_previous_one?(index)
-        merge_interval_with_previous_one(index)
-      end
-      
+    if index > 0 && necessary_merge_with_previous_one?(index)
+      merge_interval_with_previous_one(index)
+    else
+      index += 1
+    end
+    
+    if @ranges[index] && necessary_merge_with_previous_one?(index)
+      merge_interval_with_previous_one(index)
     end
 
   end
