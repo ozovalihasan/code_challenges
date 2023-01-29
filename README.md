@@ -176,6 +176,8 @@ This repository contains my solutions of challenges.
 
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
+- [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
 - [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)
