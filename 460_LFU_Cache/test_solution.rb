@@ -9,14 +9,14 @@ describe 'Solution' do
       it "returns the value of the key if the key exists in the cache. Otherwise, returns -1" do
         lfu = nil
 
-        actions.zip(params).each_with_index do |(action, (arr)), index2|
+        actions.zip(params).each_with_index do |(action, arr), index2|
           case action
           when "LFUCache"
             lfu = LFUCache.new(*arr)
           when "put"
             lfu.put(*arr)
           when "get"
-            expect(lfu.get).to eq(results[index][index2])
+            expect(lfu.get(*arr)).to eq(results[index][index2])
           end
         end
 
