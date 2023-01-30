@@ -3,7 +3,7 @@
 def tribonacci(n)
   arr = [0,1,1]
 
-  3.upto(n) { |num| arr << arr.last(3).sum }
+  3.upto(n) { arr << arr.last(3).sum }
 
   arr[n]
 end
