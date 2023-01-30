@@ -322,6 +322,8 @@ This repository contains my solutions of challenges.
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
+- [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
