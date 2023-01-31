@@ -366,6 +366,8 @@ This repository contains my solutions of challenges.
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
+- [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
+
 - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
