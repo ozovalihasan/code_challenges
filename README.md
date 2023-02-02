@@ -420,6 +420,8 @@ This repository contains my solutions of challenges.
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 
+- [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
+
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
