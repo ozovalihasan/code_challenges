@@ -194,6 +194,8 @@ This repository contains my solutions of challenges.
 
 - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
+- [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+
 - [504. Base 7](https://leetcode.com/problems/base-7/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
