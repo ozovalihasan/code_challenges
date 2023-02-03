@@ -10,6 +10,8 @@
 
 This repository contains my solutions of challenges.
 
+- [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 - [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
