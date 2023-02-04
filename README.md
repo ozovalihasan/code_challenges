@@ -206,6 +206,8 @@ This repository contains my solutions of challenges.
 
 - [561. Array Partition](https://leetcode.com/problems/array-partition/)
 
+- [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
 - [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)
 
 - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
