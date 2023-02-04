@@ -16,12 +16,16 @@ def check_inclusion(str_first, str_second)
   
   return true if chars.values.all? 0
 
+  check_inclusion_by_shifting_window(str_second, window_size, chars)
+end
+
+def check_inclusion_by_shifting_window(str_second, window_size, chars)
   str_second.drop(window_size).each_with_index do |char, index|
     chars[ char ] -= 1
     chars[ str_second[ index ] ] += 1
 
     return true if chars.values.all? 0
   end
-  
+
   false
 end
