@@ -100,6 +100,8 @@ This repository contains my solutions of challenges.
 
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 
+- [204. Count Primes](https://leetcode.com/problems/count-primes/)
+
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 - [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/)
