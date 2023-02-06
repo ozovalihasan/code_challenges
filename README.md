@@ -370,6 +370,8 @@ This repository contains my solutions of challenges.
 
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
+- [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
