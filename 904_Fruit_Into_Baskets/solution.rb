@@ -2,10 +2,10 @@
 # @return {Integer}
 def total_fruit(fruits)
   fruits = fruits.chunk_while {|type1, type2| type1 == type2}.map {|types| Fruit.new(types)}
-  counted_fruits = fruits.first(2)
+  counted_fruits = fruits.slice!(0, 2)
   total_counts = [ counted_fruits.sum(&:count) ]
   
-  fruits[2..]&.each do |fruit|
+  fruits.each do |fruit|
     unless fruit.type == counted_fruits.at(-2).type
       counted_fruits = counted_fruits.last(1)
       total_counts << counted_fruits.last.count
