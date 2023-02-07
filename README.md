@@ -274,6 +274,8 @@ This repository contains my solutions of challenges.
 
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
+- [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
 
 - [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
