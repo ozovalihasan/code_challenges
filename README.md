@@ -436,6 +436,8 @@ This repository contains my solutions of challenges.
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 
+- [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/)
+
 - [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
