@@ -342,6 +342,8 @@ This repository contains my solutions of challenges.
 
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
+- [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
 
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
