@@ -338,6 +338,8 @@ This repository contains my solutions of challenges.
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
+- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
+
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
