@@ -450,6 +450,8 @@ This repository contains my solutions of challenges.
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
+- [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
+
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
