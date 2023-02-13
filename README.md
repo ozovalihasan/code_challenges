@@ -384,6 +384,8 @@ This repository contains my solutions of challenges.
 
 - [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 
+- [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
