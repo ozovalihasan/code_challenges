@@ -2,5 +2,6 @@
 # @param {String} b
 # @return {String}
 def add_binary(a, b)
-  [a, b].inject(0) { |sum, num| num.to_i(2) + sum }.to_s(2)
+  base = 2
+  (a.to_i(base) + b.to_i(base)).to_s(base)
 end
