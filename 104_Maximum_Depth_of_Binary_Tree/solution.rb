@@ -10,5 +10,11 @@
 # @param {TreeNode} root
 # @return {Integer}
 def max_depth(root)
-    
+  depth(root)
+end
+
+def depth(node)
+  return 0 if node.nil?
+  
+  [max_depth(node.left), max_depth(node.right)].max + 1
 end
