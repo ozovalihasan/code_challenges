@@ -242,6 +242,8 @@ This repository contains my solutions of challenges.
 
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
+- [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+
 - [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 
 - [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
