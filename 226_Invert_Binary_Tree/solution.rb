@@ -7,8 +7,14 @@
 #         @right = right
 #     end
 # end
-# @param {TreeNode} root
+# @param {TreeNode} node
 # @return {TreeNode}
-def invert_tree(root)
-    
+def invert_tree(node)
+  return if node.nil?
+
+  invert_tree(node.left)
+  invert_tree(node.right)
+  node.left, node.right = node.right, node.left
+
+  node
 end
