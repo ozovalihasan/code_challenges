@@ -114,6 +114,8 @@ This repository contains my solutions of challenges.
 
 - [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
 - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
