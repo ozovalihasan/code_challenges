@@ -226,6 +226,8 @@ This repository contains my solutions of challenges.
 
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 
+- [648. Replace Words](https://leetcode.com/problems/replace-words/)
+
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
