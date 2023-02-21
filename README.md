@@ -214,6 +214,8 @@ This repository contains my solutions of challenges.
 
 - [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
 - [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 
 - [561. Array Partition](https://leetcode.com/problems/array-partition/)
