@@ -340,6 +340,8 @@ This repository contains my solutions of challenges.
 
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
