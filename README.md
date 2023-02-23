@@ -208,6 +208,8 @@ This repository contains my solutions of challenges.
 
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 
+- [502. IPO](https://leetcode.com/problems/ipo/)
+
 - [504. Base 7](https://leetcode.com/problems/base-7/)
 
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
