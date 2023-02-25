@@ -76,6 +76,8 @@ This repository contains my solutions of challenges.
 
 - [120. Triangle](https://leetcode.com/problems/triangle/)
 
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
 - [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
