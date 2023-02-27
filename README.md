@@ -180,6 +180,8 @@ This repository contains my solutions of challenges.
 
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
+- [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+
 - [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
