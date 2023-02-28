@@ -238,6 +238,8 @@ This repository contains my solutions of challenges.
 
 - [648. Replace Words](https://leetcode.com/problems/replace-words/)
 
+- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
