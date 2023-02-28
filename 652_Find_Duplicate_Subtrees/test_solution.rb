@@ -9,7 +9,7 @@ describe 'Solution' do
     examples.each_with_index do |arr, index|
       it 'returns all duplicate subtrees' do
         tree = Tree.new(arr)
-        expect(find_duplicate_subtrees(tree.root)).to eq(results[index])
+        expect(find_duplicate_subtrees(tree.root).map(&:to_a)).to match_array(results[index])
       end
     end
   end
