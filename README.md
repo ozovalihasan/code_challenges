@@ -306,6 +306,8 @@ This repository contains my solutions of challenges.
 
 - [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 
+- [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
+
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
