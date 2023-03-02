@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#compress' do
     examples.each_with_index do |chars, index|
       it 'returns the new length of the array after the input array is modified ' do
-        expect(compress(chars)).to eq(results[index])
+        expect(chars[...compress(chars)]).to eq(results[index])
       end
     end
   end
