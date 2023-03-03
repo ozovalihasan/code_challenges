@@ -2,3 +2,5 @@
 "sad"
 "leetcode"
 "leeto"
+"abc"
+"c"
