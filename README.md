@@ -490,6 +490,8 @@ This repository contains my solutions of challenges.
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
+- [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
+
 - [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
