@@ -404,6 +404,8 @@ This repository contains my solutions of challenges.
 
 - [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 
+- [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+
 - [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
