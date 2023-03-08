@@ -292,6 +292,8 @@ This repository contains my solutions of challenges.
 
 - [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 
+- [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
