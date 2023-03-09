@@ -10,7 +10,9 @@ describe 'Solution' do
       it 'returns the node where the cycle begins' do
         linked_list = LinkedList.new(arr)
 
-        unless pos == -1
+        if pos == -1
+          results[index] = nil
+        else
           cursor = linked_list.head
           index2 = 0
           cycle_node = nil
@@ -22,6 +24,7 @@ describe 'Solution' do
           end
 
           cursor.next = cycle_node
+          results[index] = cycle_node
         end
         
         expect(detectCycle(linked_list.head)).to eq(results[index])
