@@ -10,5 +10,15 @@
 # @param {ListNode} head
 # @return {ListNode}
 def detectCycle(head)
-    
+  cursor = head
+  nodes = []
+
+  until cursor.nil?
+    return nodes.index(cursor) if nodes.include? cursor
+
+    nodes << cursor
+    cursor = cursor.next
+  end
+  
+  -1
 end
