@@ -12,7 +12,12 @@ class Solution
   :type head: ListNode
 =end
   def initialize(head)
-      
+    @values = []
+    cursor = head
+    while cursor
+      @values << cursor.val
+      cursor = cursor.next
+    end
   end
 
 
@@ -20,7 +25,7 @@ class Solution
   :rtype: Integer
 =end
   def get_random()
-      
+    @values.sample
   end
 
 
