@@ -14,7 +14,7 @@ describe 'Solution' do
           case action
           when "Solution"
             linked_list = LinkedList.new(param)
-            solution = Solution.new(linked_list)
+            solution = Solution.new(linked_list.head)
           when "getRandom"
             expect(params.first.include? solution.get_random).to be true
           end
