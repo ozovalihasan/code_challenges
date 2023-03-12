@@ -8,9 +8,15 @@ describe 'Solution' do
   describe '#merge_k_lists' do
     examples.each_with_index do |lists, index|
       it 'returns a linked list built by merging all linked lists' do
-        lists.map! {|arr| LinkedList.new(arr)}
-        linked_list = merge_k_lists(lists)
-        expect(linked_list.to_a).to eq(results[index])
+        lists.map! {|arr| LinkedList.new(arr).head}
+        p lists
+        linked_list_node = merge_k_lists(lists)
+        
+        if linked_list_node
+          expect(linked_list_node.to_a).to eq(results[index])
+        else
+          expect([]).to eq(results[index])
+        end
       end
     end
   end

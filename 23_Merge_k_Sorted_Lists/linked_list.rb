@@ -5,6 +5,16 @@ class ListNode
     @val = val
     @next = _next
   end
+
+  def to_a
+    node = self
+    arr = []
+    until node.nil?
+      arr << node.val
+      node = node.next
+    end
+    arr
+  end
 end
 
 class LinkedList
