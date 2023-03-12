@@ -12,6 +12,8 @@ This repository contains my solutions of challenges.
 
 - [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
