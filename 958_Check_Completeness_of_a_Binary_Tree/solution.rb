@@ -10,5 +10,12 @@
 # @param {TreeNode} root
 # @return {Boolean}
 def is_complete_tree(root)
-    
+  queue = [ root ]
+
+  while node = queue.shift
+    queue << node.left
+    queue << node.right
+  end
+  
+  return queue.all? nil
 end
