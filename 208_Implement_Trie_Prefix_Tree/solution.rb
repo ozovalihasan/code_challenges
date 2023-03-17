@@ -16,7 +16,7 @@ class Trie
       cursor = (cursor.chars[char] ||= NodeTrie.new)
     end
     
-    cursor.word = true if word.empty?
+    cursor.word = true
   end
 
 
