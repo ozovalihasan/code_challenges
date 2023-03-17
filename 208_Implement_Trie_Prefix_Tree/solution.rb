@@ -39,6 +39,8 @@ class Trie
     check_nodes(prefix) ? true : false
   end
 
+  private
+  
   def check_nodes(prefix)
     prefix = prefix.split("")
     cursor = @root
