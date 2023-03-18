@@ -440,6 +440,8 @@ This repository contains my solutions of challenges.
 
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
+- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1518. Water Bottles](https://leetcode.com/problems/water-bottles/)
