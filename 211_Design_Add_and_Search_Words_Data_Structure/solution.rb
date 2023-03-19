@@ -1,30 +1,63 @@
 class WordDictionary
   def initialize()
-      
+    @trie = Trie.new
+    @cache = {}
   end
 
-
-=begin
-  :type word: String
-  :rtype: Void
-=end
   def add_word(word)
-      
+    @trie.insert word
+    @cache = {}
   end
 
-
-=begin
-  :type word: String
-  :rtype: Boolean
-=end
   def search(word)
-      
+    return @cache[word] unless @cache[word].nil?
+    
+    @cache[word] = @trie.search(word)
+  end
+end
+
+class Trie
+  def initialize()
+    @root = NodeTrie.new
   end
 
+  def insert(word)
+    word = word.split("")
+    cursor = @root
+
+    while char = word.shift
+      cursor = (cursor.chars[char] ||= NodeTrie.new)
+    end
+    
+    cursor.word = true
+  end
+
+  def search(word)
+    depth_search(@root, word, 0)
+  end
+
+  def depth_search(cursor, word, index)
+    return false if cursor.nil?
+
+    char = word[index]
+    index += 1
+    if char == "."
+      return cursor.chars.any? {|_, next_cursor| depth_search(next_cursor, word, index)}
+    elsif char.nil?
+      return cursor.word
+    else
+      return depth_search(cursor.chars[char], word, index)
+    end
+  end
 
 end
 
-# Your WordDictionary object will be instantiated and called as such:
-# obj = WordDictionary.new()
-# obj.add_word(word)
-# param_2 = obj.search(word)
+class NodeTrie
+  attr_accessor :chars, :word
+  def initialize(chars = {}, word = false)
+    @chars = chars
+    @word = word
+  end
+
+  alias_method :word?, :word
+end
