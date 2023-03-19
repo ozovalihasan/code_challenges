@@ -44,7 +44,7 @@ class Trie
     if char == "."
       return cursor.chars.any? {|_, next_cursor| depth_search(next_cursor, word, index)}
     elsif char.nil?
-      return cursor.word
+      return cursor.word?
     else
       return depth_search(cursor.chars[char], word, index)
     end
