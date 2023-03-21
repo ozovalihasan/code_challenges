@@ -518,6 +518,8 @@ This repository contains my solutions of challenges.
 
 - [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/)
 
+- [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
+
 - [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
