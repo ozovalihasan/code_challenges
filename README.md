@@ -534,6 +534,8 @@ This repository contains my solutions of challenges.
 
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
+- [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
 
