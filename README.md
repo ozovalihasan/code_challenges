@@ -442,6 +442,8 @@ This repository contains my solutions of challenges.
 
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
+- [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
 - [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
