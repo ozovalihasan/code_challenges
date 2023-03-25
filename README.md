@@ -520,6 +520,8 @@ This repository contains my solutions of challenges.
 
 - [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/)
 
+- [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
+
 - [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 
 - [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
