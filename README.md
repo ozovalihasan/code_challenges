@@ -44,6 +44,8 @@ This repository contains my solutions of challenges.
 
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 
+- [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
 - [65. Valid Number](https://leetcode.com/problems/valid-number/)
 
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
