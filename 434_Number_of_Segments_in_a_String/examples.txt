@@ -1,2 +1,4 @@
 "Hello, my name is John"
 "Hello"
+"love live! mu'sic forever"
+"    foo    bar"
