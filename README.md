@@ -440,6 +440,8 @@ This repository contains my solutions of challenges.
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 
+- [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
