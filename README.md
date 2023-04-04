@@ -546,6 +546,8 @@ This repository contains my solutions of challenges.
 
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
+- [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
+
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
 - [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
