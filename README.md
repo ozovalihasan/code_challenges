@@ -392,6 +392,8 @@ This repository contains my solutions of challenges.
 
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
+- [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
