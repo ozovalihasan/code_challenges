@@ -500,6 +500,8 @@ This repository contains my solutions of challenges.
 
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
+- [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 
 - [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
