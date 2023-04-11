@@ -558,6 +558,8 @@ This repository contains my solutions of challenges.
 
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
+- [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
 - [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
