@@ -58,6 +58,8 @@ This repository contains my solutions of challenges.
 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
+- [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 - [79. Word Search](https://leetcode.com/problems/word-search/)
