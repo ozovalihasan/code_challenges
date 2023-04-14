@@ -254,6 +254,8 @@ This repository contains my solutions of challenges.
 
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
+- [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
 - [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
