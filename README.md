@@ -326,6 +326,8 @@ This repository contains my solutions of challenges.
 
 - [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 
+- [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+
 - [868. Binary Gap](https://leetcode.com/problems/binary-gap/)
 
 - [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
