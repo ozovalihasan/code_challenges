@@ -508,6 +508,8 @@ This repository contains my solutions of challenges.
 
 - [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
+- [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+
 - [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 - [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
