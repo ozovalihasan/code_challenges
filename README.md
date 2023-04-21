@@ -504,6 +504,8 @@ This repository contains my solutions of challenges.
 
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 
+- [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+
 - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
