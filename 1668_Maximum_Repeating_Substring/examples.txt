@@ -1,0 +1,6 @@
+"ababc"
+"ab"
+"ababc"
+"ba"
+"ababc"
+"ac"
