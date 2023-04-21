@@ -4,3 +4,7 @@
 "ba"
 "ababc"
 "ac"
+"a"
+"a"
+"aaabaaaabaaabaaaabaaaabaaaabaaaaba"
+"aaaba"
