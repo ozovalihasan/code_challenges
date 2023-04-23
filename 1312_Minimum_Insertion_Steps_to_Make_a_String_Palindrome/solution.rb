@@ -14,13 +14,13 @@ def check(str, start_index, end_index)
     return @cache[end_index][start_index] = 0
   end
   
-  if str[start_index] == str[end_index]
-    return @cache[end_index][start_index] = check( str, start_index + 1, end_index - 1 )
-  else
-    return @cache[end_index][start_index] = [ 
-                                              check( str, start_index + 1, end_index ), 
-                                              check( str, start_index, end_index - 1 ) 
-                                            ].min + 1
-  end
+  @cache[end_index][start_index] = if str[start_index] == str[end_index]
+                                     check( str, start_index + 1, end_index - 1 )
+                                   else
+                                     [ 
+                                       check( str, start_index + 1, end_index ), 
+                                       check( str, start_index, end_index - 1 ) 
+                                     ].min + 1
+                                   end
   
 end
