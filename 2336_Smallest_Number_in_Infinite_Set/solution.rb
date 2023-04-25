@@ -1,6 +1,6 @@
 class SmallestInfiniteSet
   def initialize()
-      
+    @popped = []
   end
 
 
@@ -8,7 +8,9 @@ class SmallestInfiniteSet
   :rtype: Integer
 =end
   def pop_smallest()
-      
+    item = ((1..(@popped.size + 1)).to_a - @popped).first
+    @popped << item
+    item
   end
 
 
@@ -17,9 +19,8 @@ class SmallestInfiniteSet
   :rtype: Void
 =end
   def add_back(num)
-      
+    @popped.delete(num)
   end
-
 
 end
 
