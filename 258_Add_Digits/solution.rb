@@ -1,11 +1,8 @@
 # @param {Integer} num
 # @return {Integer}
 def add_digits(num)
-  loop do
-    digits = num.digits
-    break if digits.size == 1
-    num = digits.sum
-  end
+  result = num % 9
+  return 9 if result.zero? && num >= 9
   
-  num
+  result
 end
