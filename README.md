@@ -172,6 +172,8 @@ This repository contains my solutions of challenges.
 
 - [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
+- [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
 - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
