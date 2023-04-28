@@ -3,7 +3,7 @@
 def num_similar_groups(strs)
   
   strs.map! do |str|
-    str = str.split("").map(&:ord)
+    str.split("").map(&:ord)
   end
   
   @connected = strs.each_with_object({}) {|str, connected| connected[str] = [] }
