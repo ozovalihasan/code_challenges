@@ -312,6 +312,8 @@ This repository contains my solutions of challenges.
 
 - [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 
+- [796. Rotate String](https://leetcode.com/problems/rotate-string/)
+
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
