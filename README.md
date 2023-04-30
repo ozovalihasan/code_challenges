@@ -508,6 +508,8 @@ This repository contains my solutions of challenges.
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
+- [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+
 - [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
 
 - [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
