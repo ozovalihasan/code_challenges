@@ -532,6 +532,8 @@ This repository contains my solutions of challenges.
 
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
+- [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+
 - [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 - [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
