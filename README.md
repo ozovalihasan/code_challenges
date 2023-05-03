@@ -278,6 +278,8 @@ This repository contains my solutions of challenges.
 
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 
+- [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+
 - [648. Replace Words](https://leetcode.com/problems/replace-words/)
 
 - [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
