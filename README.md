@@ -282,6 +282,8 @@ This repository contains my solutions of challenges.
 
 - [648. Replace Words](https://leetcode.com/problems/replace-words/)
 
+- [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+
 - [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
