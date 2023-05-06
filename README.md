@@ -502,6 +502,8 @@ This repository contains my solutions of challenges.
 
 - [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 
+- [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 - [1518. Water Bottles](https://leetcode.com/problems/water-bottles/)
