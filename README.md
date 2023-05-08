@@ -280,6 +280,8 @@ This repository contains my solutions of challenges.
 
 - [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
+- [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+
 - [648. Replace Words](https://leetcode.com/problems/replace-words/)
 
 - [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
