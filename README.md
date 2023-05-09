@@ -36,6 +36,8 @@ This repository contains my solutions of challenges.
 
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
 - [55. Jump Game](https://leetcode.com/problems/jump-game/)
 
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
