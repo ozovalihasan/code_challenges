@@ -270,6 +270,8 @@ This repository contains my solutions of challenges.
 
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 
+- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
 - [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 
 - [561. Array Partition](https://leetcode.com/problems/array-partition/)
