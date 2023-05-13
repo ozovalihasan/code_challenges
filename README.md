@@ -632,6 +632,8 @@ This repository contains my solutions of challenges.
 
 - [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
 
+- [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)
+
 - [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
