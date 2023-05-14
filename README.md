@@ -544,6 +544,8 @@ This repository contains my solutions of challenges.
 
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
+- [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
+
 - [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 
 - [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
