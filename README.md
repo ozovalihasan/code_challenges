@@ -550,6 +550,8 @@ This repository contains my solutions of challenges.
 
 - [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
+- [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
 - [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
