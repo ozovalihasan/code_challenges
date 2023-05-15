@@ -12,6 +12,14 @@
 def swap_nodes(head, k)
   length = list_length(head)
   
+  nodes = find_nodes(head, k, length)
+  
+  nodes.first.val, nodes.last.val = nodes.last.val, nodes.first.val
+
+  head
+end
+
+def find_nodes(head, k, length)
   node_indices = [k, length - k + 1]
   
   nodes = []
@@ -24,9 +32,7 @@ def swap_nodes(head, k)
     cursor = cursor.next
   end
   
-  nodes.first.val, nodes.last.val = nodes.last.val, nodes.first.val
-
-  head
+  nodes
 end
 
 def list_length(head)
