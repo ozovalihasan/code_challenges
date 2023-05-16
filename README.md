@@ -642,6 +642,8 @@ This repository contains my solutions of challenges.
 
 - [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 
+- [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)
+
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
 - [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
