@@ -7,17 +7,17 @@ def is_bipartite(graph)
   graph.each_with_index do |nodes, node|
     next if @result[node]
      
-    return false unless check(node, :a)
+    return false unless check(node, :red)
   end
 
   true
 end
 
-def check(node, label)
-  return label == @result[node] if @result[node] 
+def check(node, color)
+  return color == @result[node] if @result[node] 
 
-  @result[node] = label
+  @result[node] = color
   
-  label = (label == :a) ? :b : :a
-  @graph[node].each { |next_node| return false unless check(next_node, label) }
+  color = (color == :red) ? :blue : :red
+  @graph[node].each { |next_node| return false unless check(next_node, color) }
 end
