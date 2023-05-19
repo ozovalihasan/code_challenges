@@ -322,6 +322,8 @@ This repository contains my solutions of challenges.
 
 - [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 
+- [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+
 - [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 
 - [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
