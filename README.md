@@ -212,6 +212,8 @@ This repository contains my solutions of challenges.
 
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
+- [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
