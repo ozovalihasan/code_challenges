@@ -394,6 +394,8 @@ This repository contains my solutions of challenges.
 
 - [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
 
+- [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
 - [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
