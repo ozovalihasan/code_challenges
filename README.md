@@ -312,6 +312,8 @@ This repository contains my solutions of challenges.
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
+- [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
