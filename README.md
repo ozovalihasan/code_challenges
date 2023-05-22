@@ -190,6 +190,8 @@ This repository contains my solutions of challenges.
 
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
+- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
