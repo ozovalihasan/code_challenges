@@ -5,7 +5,8 @@ class KthLargest
   :type nums: Integer[]
 =end
   def initialize(k, nums)
-      
+    @k = -k
+    @nums = nums.sort!
   end
 
 
@@ -14,7 +15,10 @@ class KthLargest
   :rtype: Integer
 =end
   def add(val)
-      
+    index = @nums.bsearch_index {|num| num > val}
+    index ? @nums.insert(index, val) : ( @nums << val )
+    
+    @nums[ @k ]
   end
 
 
