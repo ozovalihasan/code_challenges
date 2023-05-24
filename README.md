@@ -666,6 +666,8 @@ This repository contains my solutions of challenges.
 
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
+- [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
+
 
 
 ## Features
