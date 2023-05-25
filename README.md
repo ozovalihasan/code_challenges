@@ -352,6 +352,8 @@ This repository contains my solutions of challenges.
 
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
+- [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
+
 - [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
