@@ -466,6 +466,8 @@ This repository contains my solutions of challenges.
 
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
+- [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
