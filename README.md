@@ -508,6 +508,8 @@ This repository contains my solutions of challenges.
 
 - [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 
+- [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
 - [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
 
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
