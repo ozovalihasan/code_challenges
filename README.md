@@ -546,6 +546,8 @@ This repository contains my solutions of challenges.
 
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
 
+- [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
 - [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
