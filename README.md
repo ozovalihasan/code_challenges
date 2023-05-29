@@ -556,6 +556,8 @@ This repository contains my solutions of challenges.
 
 - [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
 
+- [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+
 - [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 
 - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
