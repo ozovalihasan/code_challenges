@@ -318,6 +318,8 @@ This repository contains my solutions of challenges.
 
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
+- [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
