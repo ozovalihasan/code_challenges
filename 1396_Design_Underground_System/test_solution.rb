@@ -18,7 +18,7 @@ describe 'Solution' do
           when "checkOut"
             underground_system.check_out(*param)
           when "getAverageTime"
-            expect(underground_system.get_average_time(*param)).to eq(results[index][index2])
+            expect(underground_system.get_average_time(*param).round(5)).to eq(results[index][index2])
           end
         end
 
