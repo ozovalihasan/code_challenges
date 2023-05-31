@@ -1,6 +1,7 @@
 class UndergroundSystem
   def initialize()
-      
+    @customers = {}
+    @stations = {}
   end
 
 
@@ -11,7 +12,7 @@ class UndergroundSystem
   :rtype: Void
 =end
   def check_in(id, station_name, t)
-      
+    @customers[id] = [station_name, t]
   end
 
 
@@ -22,7 +23,10 @@ class UndergroundSystem
   :rtype: Void
 =end
   def check_out(id, station_name, t)
-      
+    customer = @customers.delete(id)
+    @stations[customer.first] = {} unless @stations[customer.first] 
+
+    (@stations[customer.first][station_name] ||= []) << (t - customer.last)
   end
 
 
@@ -32,10 +36,9 @@ class UndergroundSystem
   :rtype: Float
 =end
   def get_average_time(start_station, end_station)
-      
+    station = @stations[start_station][end_station]
+    station.sum.to_f / station.size
   end
-
-
 end
 
 # Your UndergroundSystem object will be instantiated and called as such:
