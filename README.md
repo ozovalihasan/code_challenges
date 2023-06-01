@@ -462,6 +462,8 @@ This repository contains my solutions of challenges.
 
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
+- [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
 
 - [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
