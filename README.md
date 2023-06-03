@@ -506,6 +506,8 @@ This repository contains my solutions of challenges.
 
 - [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
 
+- [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+
 - [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
 - [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
