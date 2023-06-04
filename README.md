@@ -214,6 +214,8 @@ This repository contains my solutions of challenges.
 
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
+- [396. Rotate Function](https://leetcode.com/problems/rotate-function/)
+
 - [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
