@@ -332,6 +332,8 @@ This repository contains my solutions of challenges.
 
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
+- [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
+
 - [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 
 - [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
