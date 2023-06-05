@@ -322,15 +322,17 @@ This repository contains my solutions of challenges.
 
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 
+- [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
+
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
 
+- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
-
-- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 - [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
 
