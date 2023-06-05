@@ -356,6 +356,8 @@ This repository contains my solutions of challenges.
 
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 
+- [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
+
 - [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
 
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
