@@ -452,6 +452,8 @@ This repository contains my solutions of challenges.
 
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
+- [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
+
 - [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
