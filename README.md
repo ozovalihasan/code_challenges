@@ -216,6 +216,8 @@ This repository contains my solutions of challenges.
 
 - [396. Rotate Function](https://leetcode.com/problems/rotate-function/)
 
+- [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/)
+
 - [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
