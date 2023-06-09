@@ -420,6 +420,8 @@ This repository contains my solutions of challenges.
 
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
+- [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
+
 - [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
