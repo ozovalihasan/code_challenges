@@ -332,6 +332,8 @@ This repository contains my solutions of challenges.
 
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
+- [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
