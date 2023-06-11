@@ -4,7 +4,8 @@ class SnapshotArray
   :type length: Integer
 =end
   def initialize(length)
-      
+    @current_snapshot_id = 0
+    @arr = Array.new(length) { [[-1, 0]]}
   end
 
 
@@ -14,7 +15,7 @@ class SnapshotArray
   :rtype: Void
 =end
   def set(index, val)
-      
+    @arr[index] << [@current_snapshot_id, val]
   end
 
 
@@ -22,7 +23,8 @@ class SnapshotArray
   :rtype: Integer
 =end
   def snap()
-      
+    @current_snapshot_id += 1
+    @current_snapshot_id - 1
   end
 
 
@@ -32,7 +34,8 @@ class SnapshotArray
   :rtype: Integer
 =end
   def get(index, snap_id)
-      
+    snap_index = (@arr[index].bsearch_index {|saved_snapshot_id, _| saved_snapshot_id > snap_id } || @arr[index].size) - 1
+    @arr[index][snap_index].last
   end
 
 
