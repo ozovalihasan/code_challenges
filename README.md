@@ -494,6 +494,8 @@ This repository contains my solutions of challenges.
 
 - [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
+- [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
