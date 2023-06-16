@@ -586,6 +586,8 @@ This repository contains my solutions of challenges.
 
 - [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
+- [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
 - [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
