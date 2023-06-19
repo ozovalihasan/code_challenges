@@ -618,6 +618,8 @@ This repository contains my solutions of challenges.
 
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
+- [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
 - [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
