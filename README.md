@@ -326,6 +326,8 @@ This repository contains my solutions of challenges.
 
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/design-hashset/)
+
 - [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
