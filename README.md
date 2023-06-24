@@ -704,6 +704,8 @@ This repository contains my solutions of challenges.
 
 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 
+- [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
+
 - [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
