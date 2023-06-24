@@ -3,25 +3,23 @@
 # @param {Integer[]} rods
 # @return {Integer}
 def tallest_billboard(rods)
-  dp = {}
+  max_sum = rods.sum / 2
+  dp = {0 => 0}
   dp.default = 0
-  dp[0] = 0
-
-  half_sum = rods.sum / 2
-
+  
   rods.each do |rod|
-    
     cur = {}
     cur.default = 0
 
-    dp.keys.each do |s|
-      cur[s + rod] = [dp[s] + rod, cur[s + rod]].max unless (s + rod) > half_sum
-      cur[s] = [dp[s], cur[s]].max 
-      cur[s - rod] = [dp[s], cur[s - rod]].max unless (s - rod) < -half_sum
+    dp.keys.each do |key|
+      cur[key + rod] = [dp[key] + rod, cur[key + rod]].max unless key + rod > max_sum
+      cur[key] = [dp[key], cur[key]].max
+      cur[key - rod] = [dp[key], cur[key - rod]].max unless key - rod < -max_sum
     end
-    
+
     dp = cur
   end
-
+  
   dp[0]
 end
+
