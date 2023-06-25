@@ -596,6 +596,8 @@ This repository contains my solutions of challenges.
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
+- [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
 - [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
 
 - [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
