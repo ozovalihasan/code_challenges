@@ -7,7 +7,11 @@ def total_cost(costs, k, candidates)
   left_costs = costs.shift(candidates).sort
 
   k.times.sum do
-    if (left_costs.first || Float::INFINITY) <= (right_costs.first || Float::INFINITY)
+    if right_costs.empty?
+      use_left_costs(left_costs, costs)
+    elsif left_costs.empty?
+      use_right_costs(right_costs, costs)
+    elsif left_costs.first <= right_costs.first
       use_left_costs(left_costs, costs)
     else
       use_right_costs(right_costs, costs)
