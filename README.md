@@ -578,6 +578,8 @@ This repository contains my solutions of challenges.
 
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
+- [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
+
 - [1518. Water Bottles](https://leetcode.com/problems/water-bottles/)
 
 - [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
