@@ -658,6 +658,8 @@ This repository contains my solutions of challenges.
 
 - [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
 
+- [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
+
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
