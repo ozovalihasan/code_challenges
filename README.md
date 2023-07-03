@@ -378,6 +378,8 @@ This repository contains my solutions of challenges.
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
+- [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+
 - [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 
 - [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
