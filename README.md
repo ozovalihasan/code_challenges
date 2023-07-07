@@ -672,6 +672,8 @@ This repository contains my solutions of challenges.
 
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
+- [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
+
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 
 - [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
