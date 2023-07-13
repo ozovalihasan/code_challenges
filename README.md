@@ -142,6 +142,8 @@ This repository contains my solutions of challenges.
 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
+- [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
