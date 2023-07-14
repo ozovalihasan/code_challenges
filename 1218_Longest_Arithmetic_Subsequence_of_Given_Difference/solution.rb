@@ -2,11 +2,9 @@
 # @param {Integer} difference
 # @return {Integer}
 def longest_subsequence(arr, difference)
-  checked = {}
+  checked = Hash.new(0)
 
-  arr.each do |num|
-    checked[num] = (checked[num - difference] || 0 ) + 1
-  end
+  arr.each {|num| checked[num] = checked[num - difference] + 1 }
 
   checked.values.max
 end
