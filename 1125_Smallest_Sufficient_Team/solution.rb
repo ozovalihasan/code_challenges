@@ -31,6 +31,4 @@ def check_person(index = 0, previous_people_skills_sum = 0, step = 0, prev_peopl
     check_person(person_index + 1, current_people_skills_sum, step + 1, prev_people)
     prev_people.pop
   end
-
-  false
 end
