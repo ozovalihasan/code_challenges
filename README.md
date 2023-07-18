@@ -390,6 +390,8 @@ This repository contains my solutions of challenges.
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
+- [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+
 - [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)
 
 - [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
