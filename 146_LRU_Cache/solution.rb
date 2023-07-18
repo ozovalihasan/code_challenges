@@ -1,10 +1,14 @@
+# Hasan Özovalı
+# https://leetcode.com/ozovalihasan/
+
 class LRUCache
 
 =begin
   :type capacity: Integer
 =end
   def initialize(capacity)
-    
+    @capacity = capacity
+    @hash = {}
   end
 
 
@@ -13,7 +17,12 @@ class LRUCache
   :rtype: Integer
 =end
   def get(key)
-    
+    if @hash[key]
+      value = @hash.delete key
+      @hash[key] = value
+    else
+      -1
+    end
   end
 
 
@@ -23,7 +32,13 @@ class LRUCache
   :rtype: Void
 =end
   def put(key, value)
+    if @hash[key]
+      @hash.delete key
+    elsif @hash.size == @capacity 
+      @hash.shift
+    end
     
+    @hash[key] = value
   end
 
 
