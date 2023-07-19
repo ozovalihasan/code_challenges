@@ -240,6 +240,8 @@ This repository contains my solutions of challenges.
 
 - [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 
+- [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
