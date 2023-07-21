@@ -326,6 +326,8 @@ This repository contains my solutions of challenges.
 
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 
+- [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
