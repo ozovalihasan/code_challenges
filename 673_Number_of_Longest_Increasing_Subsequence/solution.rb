@@ -11,14 +11,12 @@ def find_number_of_lis(nums)
       result << [[num, 0]]
     end
 
-    boundary_index = result[reference_index - 1].bsearch_index {|arr| arr.first >= num} || result[reference_index - 1].size
-    sum = result[reference_index - 1][0...boundary_index].sum(&:last)
-
-    if result[reference_index].first.first == num
-      result[reference_index].first[1] += sum
-    else
-      result[reference_index].unshift [num, sum]
+    unless result[reference_index].first.first == num
+      result[reference_index].unshift [num, 0]
     end
+
+    sum = result[reference_index - 1].select {|arr| arr.first < num}.sum(&:last)
+    result[reference_index].first[1] += sum
   end
   
   result.last.sum(&:last)
