@@ -334,6 +334,8 @@ This repository contains my solutions of challenges.
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
+- [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
