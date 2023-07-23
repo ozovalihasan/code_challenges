@@ -796,6 +796,8 @@ This repository contains my solutions of challenges.
 
 - [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
 
+- [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
+
 
 
 ## Features
