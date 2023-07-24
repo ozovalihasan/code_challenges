@@ -38,6 +38,8 @@ This repository contains my solutions of challenges.
 
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
+- [50. Pow(x, n)]()
+
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 - [55. Jump Game](https://leetcode.com/problems/jump-game/)
