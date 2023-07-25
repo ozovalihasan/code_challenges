@@ -402,6 +402,8 @@ This repository contains my solutions of challenges.
 
 - [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 
+- [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
 - [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)
 
 - [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
