@@ -38,7 +38,7 @@ This repository contains my solutions of challenges.
 
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-- [50. Pow(x, n)]()
+- [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
