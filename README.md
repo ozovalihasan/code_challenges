@@ -722,6 +722,8 @@ This repository contains my solutions of challenges.
 
 - [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
 
+- [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
 - [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)
 
 - [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
