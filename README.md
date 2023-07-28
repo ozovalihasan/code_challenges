@@ -270,6 +270,8 @@ This repository contains my solutions of challenges.
 
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
+- [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+
 - [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 
 - [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
