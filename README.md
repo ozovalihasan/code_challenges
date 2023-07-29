@@ -384,6 +384,8 @@ This repository contains my solutions of challenges.
 
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
+- [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
+
 - [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
 
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
