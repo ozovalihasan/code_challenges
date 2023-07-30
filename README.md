@@ -328,6 +328,8 @@ This repository contains my solutions of challenges.
 
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
+- [664. Strange Printer](https://leetcode.com/problems/strange-printer/)
+
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 
 - [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
