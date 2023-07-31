@@ -328,7 +328,7 @@ This repository contains my solutions of challenges.
 
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
-- [664. Strange Printer](https://leetcode.com/problems/strange-printer/)
+- [664. Strange Printer](https://leetcode.com/problems/strange-printer/ )
 
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 
@@ -349,6 +349,8 @@ This repository contains my solutions of challenges.
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+
+- [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/design-hashset/)
 
