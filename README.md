@@ -68,6 +68,8 @@ This repository contains my solutions of challenges.
 
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
 
+- [77. Combinations](https://leetcode.com/problems/combinations/)
+
 - [79. Word Search](https://leetcode.com/problems/word-search/)
 
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
