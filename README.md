@@ -756,17 +756,15 @@ This repository contains my solutions of challenges.
 
 - [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
 
-- [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
-
-- [2239. Find Closest Number to Zero]()
+- [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
 
 - [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
-
-- [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
+- [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
 - [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
 
@@ -781,6 +779,8 @@ This repository contains my solutions of challenges.
 - [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 
 - [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
+
+- [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 
 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 
