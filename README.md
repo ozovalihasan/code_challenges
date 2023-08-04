@@ -122,6 +122,8 @@ This repository contains my solutions of challenges.
 
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
 
+- [139. Word Break](https://leetcode.com/problems/word-break/)
+
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
