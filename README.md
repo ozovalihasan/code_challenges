@@ -82,6 +82,8 @@ This repository contains my solutions of challenges.
 
 - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
+- [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
 
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
