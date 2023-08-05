@@ -10,12 +10,13 @@
 # @param {Integer} n
 # @return {TreeNode[]}
 def generate_trees(n)
+  @memo = {}
   check_sub_trees(1, n)
 end
 
 def check_sub_trees(lower_limit, upper_limit)
-  return [TreeNode.new(upper_limit)] if upper_limit == lower_limit
-  return [nil] if upper_limit < lower_limit
+  return @memo[[lower_limit, upper_limit]] if @memo[[lower_limit, upper_limit]]
+  return @memo[[lower_limit, upper_limit]] = [nil] if upper_limit < lower_limit
 
   result = []
   
@@ -30,5 +31,5 @@ def check_sub_trees(lower_limit, upper_limit)
     end
   end
 
-  result
+  @memo[[lower_limit, upper_limit]] = result
 end
