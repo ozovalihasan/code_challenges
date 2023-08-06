@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#num_music_playlists' do
     examples.each_slice(3).each_with_index do |(n, goal, k), index|
       it 'returns the valid IP addresses in any order' do
-        expect(num_music_playlists(n, goal, k)).to match_array(results[index])
+        expect(num_music_playlists(n, goal, k)).to eq(results[index])
       end
     end
   end
