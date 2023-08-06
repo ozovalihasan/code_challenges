@@ -466,6 +466,8 @@ This repository contains my solutions of challenges.
 
 - [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
+- [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
 - [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
