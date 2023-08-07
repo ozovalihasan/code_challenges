@@ -72,6 +72,8 @@ This repository contains my solutions of challenges.
 
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
 
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
 - [77. Combinations](https://leetcode.com/problems/combinations/)
 
 - [79. Word Search](https://leetcode.com/problems/word-search/)
