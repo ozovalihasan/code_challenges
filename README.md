@@ -650,6 +650,8 @@ This repository contains my solutions of challenges.
 
 - [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 
+- [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
+
 - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
