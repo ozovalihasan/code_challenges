@@ -80,6 +80,8 @@ This repository contains my solutions of challenges.
 
 - [79. Word Search](https://leetcode.com/problems/word-search/)
 
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
