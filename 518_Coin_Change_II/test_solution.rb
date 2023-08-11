@@ -6,8 +6,8 @@ describe 'Solution' do
 
   describe '#change' do
     examples.each_slice(2).each_with_index do |(amount, coins), index|
-      it "returns the number of combinations that make up that amount" do
-        expect(change(amount, coins)).to eq(results[index])
+      it 'returns the number of combinations that make up that amount' do
+        expect(coins_change(amount, coins)).to eq(results[index])
       end
     end
   end
