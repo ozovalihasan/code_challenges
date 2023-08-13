@@ -804,6 +804,8 @@ This repository contains my solutions of challenges.
 
 - [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)
 
+- [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)
+
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
