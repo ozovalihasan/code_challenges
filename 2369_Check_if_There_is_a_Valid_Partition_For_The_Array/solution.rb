@@ -17,7 +17,5 @@ def check(index)
   return true if @nums[index + 1] == @nums[index] && check(index + 2)
   
   diff1 = @nums[index + 1] - @nums[index]
-  return true if (diff1 == 0 || diff1 == 1) && ((@nums[index + 2] - @nums[index + 1]) === diff1) && check(index + 3)
-
-  false
+  (diff1 == 0 || diff1 == 1) && ((@nums[index + 2] - @nums[index + 1]) === diff1) && check(index + 3)
 end
