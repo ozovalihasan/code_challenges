@@ -86,6 +86,8 @@ This repository contains my solutions of challenges.
 
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
+- [86. Partition List](https://leetcode.com/problems/partition-list/)
+
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
