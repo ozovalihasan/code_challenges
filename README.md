@@ -192,6 +192,8 @@ This repository contains my solutions of challenges.
 
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
