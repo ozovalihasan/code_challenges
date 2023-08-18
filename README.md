@@ -686,6 +686,8 @@ This repository contains my solutions of challenges.
 
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 
+- [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)
+
 - [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
