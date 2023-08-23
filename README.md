@@ -360,6 +360,8 @@ This repository contains my solutions of challenges.
 
 - [664. Strange Printer](https://leetcode.com/problems/strange-printer/ )
 
+- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 
 - [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
