@@ -542,6 +542,8 @@ This repository contains my solutions of challenges.
 
 - [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 
+- [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
 - [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
