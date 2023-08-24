@@ -4,3 +4,5 @@
 "FoBa"
 ["FooBar","FooBarTest","FootBall","FrameBuffer","ForceFeedBack"]
 "FoBaT"
+["CompetitiveProgramming","CounterPick","ControlPanel"]
+"CooP"
