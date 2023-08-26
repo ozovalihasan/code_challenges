@@ -350,6 +350,8 @@ This repository contains my solutions of challenges.
 
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
+- [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
 - [648. Replace Words](https://leetcode.com/problems/replace-words/)
 
 - [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
