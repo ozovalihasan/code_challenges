@@ -1,6 +1,6 @@
 class MyStack
   def initialize()
-      
+    @arr = []
   end
 
 
@@ -9,7 +9,7 @@ class MyStack
   :rtype: Void
 =end
   def push(x)
-      
+    @arr.push(x)
   end
 
 
@@ -17,7 +17,7 @@ class MyStack
   :rtype: Integer
 =end
   def pop()
-      
+    @arr.pop
   end
 
 
@@ -25,7 +25,7 @@ class MyStack
   :rtype: Integer
 =end
   def top()
-      
+    @arr.last
   end
 
 
@@ -33,7 +33,7 @@ class MyStack
   :rtype: Boolean
 =end
   def empty()
-      
+    @arr.empty?
   end
 
 
