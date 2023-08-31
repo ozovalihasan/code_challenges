@@ -2,10 +2,10 @@
 # @param {Integer[]} ranges
 # @return {Integer}
 def min_taps(n, ranges)
-  garden_max_index = n 
-  intervals = ranges.map.with_index {|range, index| [index - range, index + range] }
+  intervals = ranges.filter_map.with_index {|range, index| [index - range, index + range] if range > 0 }
   intervals.sort_by!(&:first)
 
+  garden_max_index = n 
   intervals << [garden_max_index, garden_max_index]
   
   count = 0
