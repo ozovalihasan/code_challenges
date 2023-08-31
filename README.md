@@ -622,6 +622,8 @@ This repository contains my solutions of challenges.
 
 - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 
+- [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
 - [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 
 - [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
