@@ -10,5 +10,15 @@
 # @param {ListNode} head
 # @return {Boolean}
 def hasCycle(head)
+  cursor_slow = head
+  cursor_fast = head&.next
 
+  while cursor_fast
+    return true if cursor_fast == cursor_slow
+    
+    cursor_slow = cursor_slow.next
+    cursor_fast = cursor_fast.next&.next
+  end
+
+  false
 end
