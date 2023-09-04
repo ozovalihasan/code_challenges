@@ -140,6 +140,8 @@ This repository contains my solutions of challenges.
 
 - [139. Word Break](https://leetcode.com/problems/word-break/)
 
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
