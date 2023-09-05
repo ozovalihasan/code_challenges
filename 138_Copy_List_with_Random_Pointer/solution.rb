@@ -21,10 +21,12 @@ def copyRandomList(head)
     cursor = cursor.next
   end
 
+  nodes_optimized = nodes.map.with_index {|node, index| [node, index]}.to_h
+  
   nodes.each_with_index do |node, index|
     clone_node = clone_nodes[index]
     clone_node.next = clone_nodes[index + 1]
-    random_index = nodes.index(node.random)
+    random_index = nodes_optimized[node.random]
     clone_node.random = clone_nodes[random_index] if random_index
   end
 
