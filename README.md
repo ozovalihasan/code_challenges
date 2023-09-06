@@ -402,6 +402,8 @@ This repository contains my solutions of challenges.
 
 - [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 
+- [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
