@@ -532,6 +532,8 @@ This repository contains my solutions of challenges.
 
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 
+- [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)
+
 - [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 
 - [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
