@@ -246,6 +246,8 @@ This repository contains my solutions of challenges.
 
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
+- [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
 - [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 - [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
