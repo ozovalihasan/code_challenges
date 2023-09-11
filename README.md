@@ -624,6 +624,8 @@ This repository contains my solutions of challenges.
 
 - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 
+- [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+
 - [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
