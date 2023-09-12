@@ -728,6 +728,8 @@ This repository contains my solutions of challenges.
 
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 
+- [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 
 - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
