@@ -136,6 +136,8 @@ This repository contains my solutions of challenges.
 
 - [134. Gas Station](https://leetcode.com/problems/gas-station/)
 
+- [135. Candy](https://leetcode.com/problems/candy/)
+
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
 
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
