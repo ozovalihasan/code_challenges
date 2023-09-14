@@ -1,2 +1,3 @@
 ["JFK","MUC","LHR","SFO","SJC"]
 ["JFK","ATL","JFK","SFO","ATL","SFO"]
+["JFK","ANU","EZE","AXA","TIA","ANU","JFK","TIA","ANU","TIA","JFK"]
