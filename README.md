@@ -642,6 +642,8 @@ This repository contains my solutions of challenges.
 
 - [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
 
+- [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
 - [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 
 - [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
