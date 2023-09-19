@@ -218,6 +218,8 @@ This repository contains my solutions of challenges.
 
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
