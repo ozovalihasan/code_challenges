@@ -744,6 +744,8 @@ This repository contains my solutions of challenges.
 
 - [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 
+- [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 
 - [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
