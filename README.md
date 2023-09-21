@@ -10,6 +10,8 @@
 
 This repository contains my solutions of challenges.
 
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
 - [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
