@@ -384,8 +384,6 @@ This repository contains my solutions of challenges.
 
 - [664. Strange Printer](https://leetcode.com/problems/strange-printer/ )
 
-- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
-
 - [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 
 - [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
@@ -429,6 +427,8 @@ This repository contains my solutions of challenges.
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+
+- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
 - [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
 
