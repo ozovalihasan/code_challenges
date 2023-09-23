@@ -584,6 +584,8 @@ This repository contains my solutions of challenges.
 
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
+- [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
 - [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
