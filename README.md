@@ -444,6 +444,8 @@ This repository contains my solutions of challenges.
 
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
+- [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+
 - [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
 
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
