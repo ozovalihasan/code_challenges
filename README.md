@@ -494,6 +494,8 @@ This repository contains my solutions of challenges.
 
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
+- [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
+
 - [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
 - [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
