@@ -510,6 +510,8 @@ This repository contains my solutions of challenges.
 
 - [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 
+- [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
 
 - [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
