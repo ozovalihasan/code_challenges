@@ -308,6 +308,8 @@ This repository contains my solutions of challenges.
 
 - [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
+- [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 - [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
