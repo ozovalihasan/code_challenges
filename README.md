@@ -806,6 +806,8 @@ This repository contains my solutions of challenges.
 
 - [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
 
+- [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
+
 - [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 - [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
