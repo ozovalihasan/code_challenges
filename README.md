@@ -410,6 +410,8 @@ This repository contains my solutions of challenges.
 
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 
+- [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
+
 - [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/design-hashset/)
