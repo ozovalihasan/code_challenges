@@ -1,6 +1,6 @@
 class MyHashMap
   def initialize()
-      
+    @my_hash = []
   end
 
 
@@ -10,7 +10,7 @@ class MyHashMap
   :rtype: Void
 =end
   def put(key, value)
-      
+    @my_hash[key] = value
   end
 
 
@@ -19,7 +19,7 @@ class MyHashMap
   :rtype: Integer
 =end
   def get(key)
-      
+    @my_hash[key] || -1
   end
 
 
@@ -28,7 +28,7 @@ class MyHashMap
   :rtype: Void
 =end
   def remove(key)
-      
+    @my_hash[key] = nil
   end
 
 
