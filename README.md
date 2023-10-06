@@ -242,6 +242,8 @@ This repository contains my solutions of challenges.
 
 - [335. Self Crossing](https://leetcode.com/problems/self-crossing/)
 
+- [343. Integer Break](https://leetcode.com/problems/integer-break/)
+
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
