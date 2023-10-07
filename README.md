@@ -692,6 +692,8 @@ This repository contains my solutions of challenges.
 
 - [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
 
+- [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/restore-the-array/)
+
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
