@@ -706,6 +706,8 @@ This repository contains my solutions of challenges.
 
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
+- [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
+
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
