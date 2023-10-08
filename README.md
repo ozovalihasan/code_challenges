@@ -692,7 +692,7 @@ This repository contains my solutions of challenges.
 
 - [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
 
-- [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/restore-the-array/)
+- [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)
 
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
