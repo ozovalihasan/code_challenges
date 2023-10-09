@@ -682,6 +682,8 @@ This repository contains my solutions of challenges.
 
 - [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
+- [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+
 - [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
