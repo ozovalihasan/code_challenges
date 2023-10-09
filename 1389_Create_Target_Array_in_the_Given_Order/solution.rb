@@ -1,10 +1,10 @@
 # @param {Integer[]} nums
-# @param {Integer[]} index
+# @param {Integer[]} indices
 # @return {Integer[]}
-def create_target_array(nums, index)
+def create_target_array(nums, indices)
   result = []
-  nums.zip(index) do |num, num_index|
-    result.insert(num_index, num)
+  nums.each_with_index do |num, index|
+    result.insert(indices[index], num)
   end
 
   result
