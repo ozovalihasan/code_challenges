@@ -612,6 +612,8 @@ This repository contains my solutions of challenges.
 
 - [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
+- [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+
 - [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
 
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
