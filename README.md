@@ -434,6 +434,8 @@ This repository contains my solutions of challenges.
 
 - [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
+- [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
