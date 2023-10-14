@@ -956,6 +956,8 @@ This repository contains my solutions of challenges.
 
 - [2639. Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)
 
+- [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
+
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
 
 - [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
