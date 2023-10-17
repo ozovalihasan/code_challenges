@@ -682,6 +682,8 @@ This repository contains my solutions of challenges.
 
 - [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
 
+- [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)
+
 - [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)
 
 - [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
