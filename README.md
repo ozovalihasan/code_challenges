@@ -854,6 +854,8 @@ This repository contains my solutions of challenges.
 
 - [2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
 
+- [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
+
 - [2079. Watering Plants](https://leetcode.com/problems/watering-plants/)
 
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
