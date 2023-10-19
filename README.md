@@ -482,6 +482,8 @@ This repository contains my solutions of challenges.
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
 - [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
