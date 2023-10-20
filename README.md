@@ -704,6 +704,8 @@ This repository contains my solutions of challenges.
 
 - [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
 
+- [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
+
 - [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
 
 - [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)
