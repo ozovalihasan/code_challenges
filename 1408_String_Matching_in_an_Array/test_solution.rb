@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#string_matching' do
     examples.each_with_index do |words, index|
       it 'returns all strings in words that is a substring of another word' do
-        expect(string_matching(words)).to eq(results[index])
+        expect(string_matching(words)).to match_array(results[index])
       end
     end
   end
