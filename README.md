@@ -712,6 +712,8 @@ This repository contains my solutions of challenges.
 
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
+- [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
