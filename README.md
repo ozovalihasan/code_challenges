@@ -816,6 +816,8 @@ This repository contains my solutions of challenges.
 
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
+- [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+
 - [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 
 - [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
