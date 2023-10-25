@@ -446,6 +446,8 @@ This repository contains my solutions of challenges.
 
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
+- [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+
 - [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
 
 - [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
