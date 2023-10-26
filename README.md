@@ -472,6 +472,8 @@ This repository contains my solutions of challenges.
 
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 
+- [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 
 - [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
