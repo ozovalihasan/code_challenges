@@ -258,6 +258,8 @@ This repository contains my solutions of challenges.
 
 - [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
+- [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
