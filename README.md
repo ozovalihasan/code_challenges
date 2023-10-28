@@ -656,6 +656,8 @@ This repository contains my solutions of challenges.
 
 - [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 
+- [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 - [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
