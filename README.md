@@ -340,6 +340,8 @@ This repository contains my solutions of challenges.
 
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 
+- [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+
 - [502. IPO](https://leetcode.com/problems/ipo/)
 
 - [504. Base 7](https://leetcode.com/problems/base-7/)
