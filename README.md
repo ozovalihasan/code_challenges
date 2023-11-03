@@ -734,6 +734,8 @@ This repository contains my solutions of challenges.
 
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
 
+- [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
 - [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
