@@ -1,11 +1,9 @@
 # @param {Integer[]} nums
 # @return {Integer}
 def most_frequent_even(nums)
-  nums.select!(&:even?)
+  return -1 if nums.none?(&:even?)
 
-  return -1 if nums.empty?
-
-  count = nums.tally
+  count = nums.select(&:even?).tally
   max = count.values.max
-  count.select { |key, val| val == max }.keys.min
+  count.select { |_, val| val == max }.keys.min
 end
