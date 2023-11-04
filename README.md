@@ -962,6 +962,8 @@ This repository contains my solutions of challenges.
 
 - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 
+- [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)
+
 - [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
