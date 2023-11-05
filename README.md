@@ -772,6 +772,8 @@ This repository contains my solutions of challenges.
 
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
+- [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
 - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
