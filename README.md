@@ -848,6 +848,8 @@ This repository contains my solutions of challenges.
 
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 
+- [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)
+
 - [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
 - [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
