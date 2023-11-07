@@ -862,6 +862,8 @@ This repository contains my solutions of challenges.
 
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 
+- [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
+
 - [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 - [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
