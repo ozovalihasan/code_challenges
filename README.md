@@ -1008,6 +1008,8 @@ This repository contains my solutions of challenges.
 
 - [2639. Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)
 
+- [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
+
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
