@@ -888,6 +888,8 @@ This repository contains my solutions of challenges.
 
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
+- [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
+
 - [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 
 - [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
