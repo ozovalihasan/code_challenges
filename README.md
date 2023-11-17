@@ -866,6 +866,8 @@ This repository contains my solutions of challenges.
 
 - [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
 
+- [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
+
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 
 - [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
