@@ -850,6 +850,8 @@ This repository contains my solutions of challenges.
 
 - [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
 
+- [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 
 - [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)
