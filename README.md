@@ -870,6 +870,8 @@ This repository contains my solutions of challenges.
 
 - [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
+- [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)
+
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 
 - [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
