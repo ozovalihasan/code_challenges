@@ -1,5 +1,10 @@
-# @param {String} s
-# @return {String}
-def replace_digits(s)
-  s.gsub(/../) {|pairs| pairs[0] + (pairs[0].ord + pairs[1].to_i).chr}
+# @param {Integer[]} nums
+# @return {Integer}
+def reduction_operations(nums)
+  freq = nums.tally
+  uniq_nums = freq.keys.sort!
+  
+  uniq_nums.each_with_index.sum do |num, index| 
+    freq[num] * index
+  end
 end
