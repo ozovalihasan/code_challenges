@@ -804,6 +804,8 @@ This repository contains my solutions of challenges.
 
 - [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
 
+- [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
+
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
