@@ -784,6 +784,8 @@ This repository contains my solutions of challenges.
 
 - [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
+- [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+
 - [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
 
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
