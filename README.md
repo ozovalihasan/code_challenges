@@ -836,6 +836,8 @@ This repository contains my solutions of challenges.
 
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
+- [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+
 - [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 
 - [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
