@@ -558,6 +558,8 @@ This repository contains my solutions of challenges.
 
 - [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 
+- [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
 - [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
