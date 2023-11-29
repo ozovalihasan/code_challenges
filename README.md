@@ -172,6 +172,8 @@ This repository contains my solutions of challenges.
 
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+
 - [198. House Robber](https://leetcode.com/problems/house-robber/)
 
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
