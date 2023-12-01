@@ -848,6 +848,8 @@ This repository contains my solutions of challenges.
 
 - [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
 
+- [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
+
 - [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
 
 - [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
