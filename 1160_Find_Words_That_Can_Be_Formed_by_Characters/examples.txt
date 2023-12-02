@@ -1,0 +1,4 @@
+["cat","bt","hat","tree"]
+"atach"
+["hello","world","leetcode"]
+"welldonehoneyr"
