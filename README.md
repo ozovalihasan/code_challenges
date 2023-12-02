@@ -648,6 +648,8 @@ This repository contains my solutions of challenges.
 
 - [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
+- [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+
 - [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
