@@ -710,6 +710,8 @@ This repository contains my solutions of challenges.
 
 - [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)
 
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
 - [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)
 
 - [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
