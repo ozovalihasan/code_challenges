@@ -846,6 +846,8 @@ This repository contains my solutions of challenges.
 
 - [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
+- [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
+
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 - [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
