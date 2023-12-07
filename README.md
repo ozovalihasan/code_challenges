@@ -792,6 +792,8 @@ This repository contains my solutions of challenges.
 
 - [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
+- [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
+
 - [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
 - [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
