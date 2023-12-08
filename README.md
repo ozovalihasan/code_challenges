@@ -1058,6 +1058,8 @@ This repository contains my solutions of challenges.
 
 - [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
 
+- [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)
+
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
