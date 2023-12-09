@@ -10,5 +10,7 @@
 # @param {TreeNode} root
 # @return {Integer[]}
 def inorder_traversal(root)
-    
+  return [] if root.nil?
+
+  (inorder_traversal(root.left) << root.val).concat inorder_traversal(root.right)
 end
