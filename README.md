@@ -682,6 +682,8 @@ This repository contains my solutions of challenges.
 
 - [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
+- [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+
 - [1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 
 - [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
