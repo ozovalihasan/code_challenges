@@ -216,6 +216,8 @@ This repository contains my solutions of challenges.
 
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
