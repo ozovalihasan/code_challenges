@@ -1016,6 +1016,8 @@ This repository contains my solutions of challenges.
 
 - [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
 
+- [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
+
 - [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 
 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
