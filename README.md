@@ -402,6 +402,8 @@ This repository contains my solutions of challenges.
 
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 
+- [661. Image Smoother](https://leetcode.com/problems/image-smoother/)
+
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 - [664. Strange Printer](https://leetcode.com/problems/strange-printer/ )
