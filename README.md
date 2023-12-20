@@ -1084,6 +1084,8 @@ This repository contains my solutions of challenges.
 
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
+- [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)
+
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
 
 - [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
