@@ -838,6 +838,8 @@ This repository contains my solutions of challenges.
 
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 
+- [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
+
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
