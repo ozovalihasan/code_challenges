@@ -880,6 +880,8 @@ This repository contains my solutions of challenges.
 
 - [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
 
+- [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
 - [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 
 - [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
