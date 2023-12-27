@@ -820,6 +820,8 @@ This repository contains my solutions of challenges.
 
 - [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
 
+- [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+
 - [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
 
 - [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
