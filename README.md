@@ -932,6 +932,8 @@ This repository contains my solutions of challenges.
 
 - [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)
 
+- [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)
+
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
