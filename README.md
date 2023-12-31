@@ -838,6 +838,8 @@ This repository contains my solutions of challenges.
 
 - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)
 
+- [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
+
 - [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 
 - [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
