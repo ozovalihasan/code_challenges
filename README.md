@@ -1100,6 +1100,8 @@ This repository contains my solutions of challenges.
 
 - [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
 
+- [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
+
 - [2639. Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)
 
 - [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
