@@ -3,9 +3,12 @@
 def find_matrix(nums)
   count = Hash.new(0)
   result = []
+
   nums.each do |num|
-    (result[count[num]] ||= []) << num
-    count[num] = count[num] + 1
+    result[count[num]] ||= [] 
+    result[count[num]] << num
+    
+    count[num] += 1
   end
   
   result
