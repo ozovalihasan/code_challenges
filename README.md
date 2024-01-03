@@ -974,6 +974,8 @@ This repository contains my solutions of challenges.
 
 - [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
 
+- [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
+
 - [2079. Watering Plants](https://leetcode.com/problems/watering-plants/)
 
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
