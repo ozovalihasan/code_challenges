@@ -1122,6 +1122,8 @@ This repository contains my solutions of challenges.
 
 - [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
 
+- [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
+
 
 
 ## Features
