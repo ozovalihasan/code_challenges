@@ -236,6 +236,8 @@ This repository contains my solutions of challenges.
 
 - [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 - [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
 - [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
