@@ -1036,6 +1036,8 @@ This repository contains my solutions of challenges.
 
 - [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/)
 
+- [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
+
 - [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
 
 - [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)
