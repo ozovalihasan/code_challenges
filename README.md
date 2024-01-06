@@ -866,6 +866,8 @@ This repository contains my solutions of challenges.
 
 - [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
 
+- [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)
+
 - [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 
 - [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
