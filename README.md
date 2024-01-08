@@ -368,6 +368,8 @@ This repository contains my solutions of challenges.
 
 - [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 
+- [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
 - [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
