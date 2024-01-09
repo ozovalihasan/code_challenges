@@ -478,6 +478,8 @@ This repository contains my solutions of challenges.
 
 - [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 
+- [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+
 - [796. Rotate String](https://leetcode.com/problems/rotate-string/)
 
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
