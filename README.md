@@ -1072,6 +1072,8 @@ This repository contains my solutions of challenges.
 
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
+- [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)
+
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
 - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
