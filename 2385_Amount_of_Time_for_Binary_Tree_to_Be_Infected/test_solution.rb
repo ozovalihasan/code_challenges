@@ -9,7 +9,7 @@ describe 'Solution' do
     examples.each_slice(2).each_with_index do |(root, start), index|
       it 'returns whether two binary trees are same or not' do
         tree = Tree.new(root)
-        expect(amount_of_time(tree, start)).to eq(results[index])
+        expect(amount_of_time(tree.root, start)).to eq(results[index])
       end
     end
   end
