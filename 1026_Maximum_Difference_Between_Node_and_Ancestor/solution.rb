@@ -10,18 +10,20 @@
 # @param {TreeNode} root
 # @return {Integer}
 def max_ancestor_diff(root)
-  @result = []
+  @max = 0
   check_node(root, root.val, root.val)
-  @result.max
+  @max
 end
 
 def check_node(node, min, max)
   return if node.nil?
   
-  @result << (node.val - min)
-  @result << (max - node.val)
-  
-  min, max = [min, node.val, max].minmax unless node.val.between? min, max
+  @max = node.val - min if node.val - min > @max
+  @max = max - node.val if max - node.val > @max
+
+  min = node.val if node.val < min
+  max = node.val if node.val > max
+
   check_node(node.left, min, max)
   check_node(node.right, min, max)
 end
