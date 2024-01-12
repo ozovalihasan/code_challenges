@@ -568,6 +568,8 @@ This repository contains my solutions of challenges.
 
 - [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
 
+- [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
 - [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
