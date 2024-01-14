@@ -2,9 +2,10 @@
 # @param {String} word2
 # @return {Boolean}
 def close_strings(word1, word2)
-  word1, word2 = word1.chars, word2.chars
+  word_count1 = word1.chars.tally
+  word_count2 = word2.chars.tally
 
-  return false unless word1.uniq.sort.eql? word2.uniq.sort 
+  return false unless word_count1.keys.tally == word_count2.keys.tally
   
-  word1.tally.values.sort.eql? word2.tally.values.sort
+  word_count1.values.tally == word_count2.values.tally
 end
