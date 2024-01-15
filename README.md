@@ -588,6 +588,8 @@ This repository contains my solutions of challenges.
 
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 
+- [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
+
 - [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 
 - [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
