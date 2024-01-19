@@ -1122,6 +1122,8 @@ This repository contains my solutions of challenges.
 
 - [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
 
+- [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)
+
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
 - [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
