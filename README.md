@@ -1156,6 +1156,8 @@ This repository contains my solutions of challenges.
 
 - [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
 
+- [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
+
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 
 
