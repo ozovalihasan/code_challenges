@@ -756,6 +756,8 @@ This repository contains my solutions of challenges.
 
 - [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
+- [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+
 - [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
