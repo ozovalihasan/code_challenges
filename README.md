@@ -296,6 +296,8 @@ This repository contains my solutions of challenges.
 
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 
+- [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
