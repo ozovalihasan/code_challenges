@@ -390,6 +390,8 @@ This repository contains my solutions of challenges.
 
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
+- [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+
 - [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)
 
 - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
