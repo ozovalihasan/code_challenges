@@ -790,6 +790,8 @@ This repository contains my solutions of challenges.
 
 - [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 
+- [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
 - [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
