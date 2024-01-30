@@ -374,6 +374,8 @@ This repository contains my solutions of challenges.
 
 - [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
+- [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
