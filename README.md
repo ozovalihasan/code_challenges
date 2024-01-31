@@ -470,6 +470,8 @@ This repository contains my solutions of challenges.
 
 - [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 
+- [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
 
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
