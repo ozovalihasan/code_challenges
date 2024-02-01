@@ -1178,6 +1178,8 @@ This repository contains my solutions of challenges.
 
 - [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
 
+- [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
+
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 
 
