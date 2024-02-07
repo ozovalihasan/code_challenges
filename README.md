@@ -388,6 +388,8 @@ This repository contains my solutions of challenges.
 
 - [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 
+- [554. Brick Wall](https://leetcode.com/problems/brick-wall/)
+
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
 - [561. Array Partition](https://leetcode.com/problems/array-partition/)
