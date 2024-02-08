@@ -954,6 +954,8 @@ This repository contains my solutions of challenges.
 
 - [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 
+- [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)
+
 - [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
 
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
