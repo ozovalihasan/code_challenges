@@ -280,6 +280,8 @@ This repository contains my solutions of challenges.
 
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 
+- [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
