@@ -442,6 +442,8 @@ This repository contains my solutions of challenges.
 
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
+- [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+
 - [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
 
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
