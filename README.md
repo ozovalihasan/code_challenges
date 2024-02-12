@@ -170,6 +170,8 @@ This repository contains my solutions of challenges.
 
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 
+- [169. Majority Element](https://leetcode.com/problems/majority-element/)
+
 - [179. Largest Number](https://leetcode.com/problems/largest-number/)
 
 - [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
