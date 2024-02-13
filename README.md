@@ -252,6 +252,8 @@ This repository contains my solutions of challenges.
 
 - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
+- [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
 - [335. Self Crossing](https://leetcode.com/problems/self-crossing/)
 
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
