@@ -902,6 +902,8 @@ This repository contains my solutions of challenges.
 
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
 
+- [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
+
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
