@@ -214,6 +214,8 @@ This repository contains my solutions of challenges.
 
 - [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
