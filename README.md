@@ -248,6 +248,8 @@ This repository contains my solutions of challenges.
 
 - [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
+- [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+
 - [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
