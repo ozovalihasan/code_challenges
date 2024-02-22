@@ -372,6 +372,8 @@ This repository contains my solutions of challenges.
 
 - [504. Base 7](https://leetcode.com/problems/base-7/)
 
+- [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
 - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
