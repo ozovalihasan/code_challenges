@@ -466,6 +466,8 @@ This repository contains my solutions of challenges.
 
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
 
+- [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
+
 - [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/design-hashset/)
