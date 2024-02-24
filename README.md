@@ -1060,6 +1060,8 @@ This repository contains my solutions of challenges.
 
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 
+- [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
+
 - [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
 
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
