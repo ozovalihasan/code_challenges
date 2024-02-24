@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#find_all_people' do
     examples.each_slice(3).each_with_index do |(n, meetings, first_person), index|
       it 'returns a list of all the people that have the secret after all the meetings have taken place' do
-        expect(find_all_people(n, meetings, first_person)).to eq(results[index])
+        expect(find_all_people(n, meetings, first_person)).to match_array(results[index])
       end
     end
   end
