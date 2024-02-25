@@ -1214,6 +1214,8 @@ This repository contains my solutions of challenges.
 
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
 
+- [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)
+
 - [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 
 - [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
