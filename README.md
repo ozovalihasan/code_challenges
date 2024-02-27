@@ -1038,6 +1038,8 @@ This repository contains my solutions of challenges.
 
 - [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
 
+- [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
+
 - [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 
 - [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
