@@ -544,6 +544,8 @@ This repository contains my solutions of challenges.
 
 - [837. New 21 Game](https://leetcode.com/problems/new-21-game/)
 
+- [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+
 - [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
 
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
