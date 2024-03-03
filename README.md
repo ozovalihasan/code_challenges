@@ -454,6 +454,8 @@ This repository contains my solutions of challenges.
 
 - [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
+- [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
 - [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
