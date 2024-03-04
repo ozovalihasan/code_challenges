@@ -634,6 +634,8 @@ This repository contains my solutions of challenges.
 
 - [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 
+- [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 - [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
