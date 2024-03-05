@@ -11,11 +11,5 @@ def minimum_length(str)
   end
 
   diff = right - left
-  if diff.positive?
-    diff + 1
-  elsif diff.zero?
-    1
-  else
-    0
-  end
+  diff.negative? ? 0 : (diff + 1)
 end
