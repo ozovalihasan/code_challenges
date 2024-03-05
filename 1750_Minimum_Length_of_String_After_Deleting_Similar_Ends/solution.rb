@@ -1,18 +1,21 @@
 # @param {String} str
 # @return {Integer}
 def minimum_length(str)
-  chunks = str.chars.chunk_while {|first, second| first == second}.to_a
-  while chunks.first.first == chunks.last.first && chunks.size > 1
-    chunks.pop
-    chunks.shift
+  left = 0
+  right = str.size - 1
+
+  while str[left] == str[right] && left < right
+    char = str[left]
+    left += 1 while str[left] == char
+    right -= 1 while str[right] == char
   end
 
-  return 0 if chunks.empty?
-  
-  chars = chunks.flatten(1)
-  if chars.last == chars.first
-    chars.size == 1 ? 1 : 0
+  diff = right - left
+  if diff.positive?
+    diff + 1
+  elsif diff.zero?
+    1
   else
-    chars.size
+    0
   end
 end
