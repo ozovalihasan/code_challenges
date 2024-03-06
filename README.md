@@ -848,6 +848,8 @@ This repository contains my solutions of challenges.
 
 - [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
 
+- [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
 - [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 
 - [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
