@@ -692,6 +692,8 @@ This repository contains my solutions of challenges.
 
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
+- [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)
+
 - [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
 - [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
