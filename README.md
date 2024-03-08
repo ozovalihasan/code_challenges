@@ -756,6 +756,8 @@ This repository contains my solutions of challenges.
 
 - [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
 
+- [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+
 - [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 - [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
