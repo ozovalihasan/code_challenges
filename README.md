@@ -1214,6 +1214,8 @@ This repository contains my solutions of challenges.
 
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
+- [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
+
 - [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 
 - [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
