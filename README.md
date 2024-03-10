@@ -1222,6 +1222,8 @@ This repository contains my solutions of challenges.
 
 - [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 
+- [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
+
 - [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 - [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
