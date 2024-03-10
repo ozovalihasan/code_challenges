@@ -2,3 +2,7 @@
 [[0,2],[1,4],[1,1]]
 ["a","e","i"]
 [[0,2],[0,1],[2,2]]
+["bzmxvzjxfddcuznspdcbwiojiqf","mwguoaskvramwgiweogzulcinycosovozppl","uigevazgbrddbcsvrvnngfrvkhmqszjicpieahs","uivcdsboxnraqpokjzaayedf","yalc","bbhlbmpskgxmxosft","vigplemkoni","krdrlctodtmprpxwditvcps","gqjwokkskrb","bslxxpabivbvzkozzvdaykaatzrpe","qwhzcwkchluwdnqjwhabroyyxbtsrsxqjnfpadi","siqbezhkohmgbenbkikcxmvz","ddmaireeouzcvffkcohxus","kjzguljbwsxlrd","gqzuqcljvcpmoqlnrxvzqwoyas","vadguvpsubcwbfbaviedr","nxnorutztxfnpvmukpwuraen","imgvujjeygsiymdxp","rdzkpk","cuap","qcojjumwp","pyqzshwykhtyzdwzakjejqyxbganow","cvxuskhcloxykcu","ul","axzscbjajazvbxffrydajapweci"]
+[[4, 4],[6, 17],[10, 17],[9, 18],[17, 22],[5, 23],[2, 5],[17, 21],[5, 17],[4, 8],[7, 17],[16, 19],[7, 12],[9, 20],[13, 23],[1, 5],[19, 19]]
+["ebnnporwiufimntatuaoadwbxrtrt","xjjqnrjkkbto","tkubqyxihhxikigwlnkikxhsfxmhl","xeezqycyn","ewrdylevbatctcydoqjcmixffplhdvcxy","erhrezicc","b","lgildbphjsiechluqedoor","vsuvhhkaxvdvipmlpxkawyuektwwyq","xvirozecg","mxzreujgplnza","lvwtmnpkswiyoheshvyjjhgzvwayv","ykbonftzsuuv","tpbyufbbqpe","nozcjouwqrxup","o","bzvicojsvpvaglmveonqabc","jefoabkhvaikfnjgamzbvisoff","tihdokbjutzwmuukkol","rjbqfnmoccwhidzzqekaudnsrhkybggicvmvbgch"]
+[[7, 10],[6, 9],[12, 13],[17, 18],[5, 10],[12, 12],[17, 19],[1, 18],[13, 18],[3, 11],[6, 14],[9, 10],[3, 19],[13, 18],[17, 18],[5, 7],[3, 12],[9, 11],[15, 17],[7, 15],[18, 18],[2, 17]]
