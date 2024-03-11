@@ -2,5 +2,5 @@
 # @param {Integer} num2
 # @return {Integer}
 def sum(num1, num2)
-    
+  num1 + num2
 end
