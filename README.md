@@ -1118,6 +1118,8 @@ This repository contains my solutions of challenges.
 
 - [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 
+- [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
+
 - [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 
 - [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
