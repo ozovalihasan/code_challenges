@@ -720,6 +720,8 @@ This repository contains my solutions of challenges.
 
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
+- [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+
 - [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
 
 - [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
