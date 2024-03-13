@@ -1210,6 +1210,8 @@ This repository contains my solutions of challenges.
 
 - [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 
+- [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)
+
 - [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
 - [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
