@@ -614,6 +614,8 @@ This repository contains my solutions of challenges.
 
 - [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 
+- [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+
 - [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
 
 - [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
