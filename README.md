@@ -1098,6 +1098,8 @@ This repository contains my solutions of challenges.
 
 - [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 
+- [2129. Capitalize the Title](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
+
 - [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 
 - [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
