@@ -658,6 +658,8 @@ This repository contains my solutions of challenges.
 
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 
+- [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
