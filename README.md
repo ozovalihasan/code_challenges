@@ -738,6 +738,8 @@ This repository contains my solutions of challenges.
 
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 
+- [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
+
 - [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 
 - [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
