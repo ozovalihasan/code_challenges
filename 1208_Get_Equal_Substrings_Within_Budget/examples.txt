@@ -7,3 +7,6 @@
 "abcd"
 "acde"
 0
+"krrgw"
+"zjxss"
+19
