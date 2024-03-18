@@ -924,6 +924,8 @@ This repository contains my solutions of challenges.
 
 - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)
 
+- [1616. Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
+
 - [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
 
 - [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
