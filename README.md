@@ -92,6 +92,8 @@ This repository contains my solutions of challenges.
 
 - [86. Partition List](https://leetcode.com/problems/partition-list/)
 
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
