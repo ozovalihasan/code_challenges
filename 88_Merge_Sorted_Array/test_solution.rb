@@ -7,7 +7,8 @@ describe 'Solution' do
   describe '#merge' do
     examples.each_slice(4).each_with_index do |(nums1, m, nums2, n), index|
       it 'modifies the original array as a single array sorted in non-decreasing order' do
-        expect(merge(nums1, m, nums2, n)).to eq(results[index])
+        merge(nums1, m, nums2, n)
+        expect(nums1).to eq(results[index])
       end
     end
   end
