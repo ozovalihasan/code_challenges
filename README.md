@@ -888,6 +888,8 @@ This repository contains my solutions of challenges.
 
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
+- [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)
+
 - [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
 
 - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
