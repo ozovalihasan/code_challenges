@@ -1158,6 +1158,8 @@ This repository contains my solutions of challenges.
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 
+- [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
+
 - [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
 - [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
