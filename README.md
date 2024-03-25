@@ -334,6 +334,8 @@ This repository contains my solutions of challenges.
 
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
+- [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
 - [443. String Compression](https://leetcode.com/problems/string-compression/)
 
 - [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
