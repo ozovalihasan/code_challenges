@@ -40,6 +40,8 @@ This repository contains my solutions of challenges.
 
 - [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 - [46. Permutations](https://leetcode.com/problems/permutations/)
