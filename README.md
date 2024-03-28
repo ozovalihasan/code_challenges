@@ -1286,6 +1286,8 @@ This repository contains my solutions of challenges.
 
 - [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
 
+- [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+
 - [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 
 - [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)
