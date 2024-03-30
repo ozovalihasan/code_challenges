@@ -672,6 +672,8 @@ This repository contains my solutions of challenges.
 
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
+- [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 - [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
