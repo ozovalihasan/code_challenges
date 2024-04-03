@@ -2,11 +2,9 @@
 # @param {String} word
 # @return {Boolean}
 
-##########################
-# The original method is `exist`, but this name is causing an issue. So, it is changed as `exist?`
-##########################
 def exist?(board, word)
-  
+  @word = word
+  @max_char_index = word.size - 1
   @max_row_index = board.size - 1
   @max_col_index = board.first.size - 1
 
@@ -18,24 +16,23 @@ def exist?(board, word)
 
   0.upto(@max_row_index) do |row_index|
     0.upto(@max_col_index) do |col_index|
-      return true if check_cell(board, row_index, col_index, word)
+      return true if check_cell(board, row_index, col_index, 0)
     end
   end
 
   false
 end
 
-def check_cell(board, row_index, col_index, word)
+def check_cell(board, row_index, col_index, char_index)
   return false unless within_bounds?(row_index, col_index)
-  return false unless board[row_index][col_index] == word[0]
-  return true if word.size == 1
+  return false unless board[row_index][col_index] == @word[char_index]
+  return true if char_index == @max_char_index
   
-  unchecked_letters = word[1..]
   cell = board[row_index][col_index]
-  board[row_index][col_index] = "used"
+  board[row_index][col_index] = :used
   
   @steps.each do |step_row, step_col|
-    return true if check_cell(board, row_index + step_row, col_index + step_col, unchecked_letters)  
+    return true if check_cell(board, row_index + step_row, col_index + step_col, char_index + 1)  
   end
 
   board[row_index][col_index] = cell
