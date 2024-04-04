@@ -936,6 +936,8 @@ This repository contains my solutions of challenges.
 
 - [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
 
+- [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+
 - [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)
 
 - [1616. Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
