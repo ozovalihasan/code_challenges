@@ -762,6 +762,8 @@ This repository contains my solutions of challenges.
 
 - [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
+- [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+
 - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 
 - [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
