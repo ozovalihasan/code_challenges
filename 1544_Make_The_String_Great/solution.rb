@@ -1,17 +1,14 @@
 # @param {String} s
 # @return {String}
 def make_good(s)
-  index = 0
-  s = s.chars
-  
-  while s[index + 1]
-    if (s[index] != s[index + 1]) && s[index].downcase == s[index + 1].downcase
-      s.slice!(index, 2)
-      index -= 1 if index.positive?
+  chars = []
+  s.each_char.with_index do |char, index|
+    if char != chars.last && (char.downcase == chars.last&.downcase)
+      chars.pop
     else
-      index += 1
+      chars << char
     end
   end
-  
-  s.join
+
+  chars.join
 end
