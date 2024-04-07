@@ -456,6 +456,8 @@ This repository contains my solutions of challenges.
 
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
+- [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
