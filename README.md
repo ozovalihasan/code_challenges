@@ -300,6 +300,8 @@ This repository contains my solutions of challenges.
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
+- [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
+
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
 - [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
