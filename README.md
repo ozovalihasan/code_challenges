@@ -1114,6 +1114,8 @@ This repository contains my solutions of challenges.
 
 - [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
 
+- [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+
 - [2079. Watering Plants](https://leetcode.com/problems/watering-plants/)
 
 - [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
