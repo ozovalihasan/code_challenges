@@ -652,6 +652,8 @@ This repository contains my solutions of challenges.
 
 - [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 
+- [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 - [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
