@@ -314,6 +314,8 @@ This repository contains my solutions of challenges.
 
 - [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
+- [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
 - [403. Frog Jump](https://leetcode.com/problems/frog-jump/)
 
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
