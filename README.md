@@ -208,6 +208,8 @@ This repository contains my solutions of challenges.
 
 - [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/)
 
+- [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
