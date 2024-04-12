@@ -42,6 +42,8 @@ This repository contains my solutions of challenges.
 
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
+- [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 - [46. Permutations](https://leetcode.com/problems/permutations/)
