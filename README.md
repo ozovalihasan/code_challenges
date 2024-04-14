@@ -94,6 +94,8 @@ This repository contains my solutions of challenges.
 
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
+- [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
 - [86. Partition List](https://leetcode.com/problems/partition-list/)
 
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
