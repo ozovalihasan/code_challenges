@@ -10,17 +10,22 @@
 # @param {TreeNode} root
 # @return {Integer}
 def sum_of_left_leaves(root, left_node = false)
-  result = [0]
-  check_nodes(root.left, true, result)
-  check_nodes(root.right, false, result)
-  result.first
-end
+  left_sum = 0
+  left_stack = []
+  right_stack = [root]
+  until left_stack.empty? && right_stack.empty?
+    while (node = left_stack.pop)
+      next left_sum += node.val if node.left.nil? && node.right.nil?
+      
+      left_stack << node.left if node.left
+      right_stack << node.right if node.right
+    end
 
-def check_nodes(node, left_node, result)
-  return if node.nil? 
+    while (node = right_stack.pop)
+      left_stack << node.left if node.left
+      right_stack << node.right if node.right
+    end
+  end 
 
-  result[0] += node.val if left_node && node.left.nil? && node.right.nil? 
-    
-  check_nodes(node.left, true, result)
-  check_nodes(node.right, false, result)
+  left_sum
 end
