@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#maximal_rectangle' do
     examples.each_with_index do |matrix, index|
       it "returns the largest rectangle containing only 1's and return its area" do
-        expect(maximal_rectangle(matrix)).to match_array(results[index])
+        expect(maximal_rectangle(matrix)).to eq(results[index])
       end
     end
   end
