@@ -550,6 +550,8 @@ This repository contains my solutions of challenges.
 
 - [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 
+- [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+
 - [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
 
 - [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
