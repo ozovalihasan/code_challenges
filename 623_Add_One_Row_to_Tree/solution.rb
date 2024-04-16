@@ -17,7 +17,6 @@ def add_one_row(root, val, depth)
   @depth = depth
   check_node(temp_node, 1)
   temp_node.left
-  root
 end
 
 def check_node(node, checked_depth)
