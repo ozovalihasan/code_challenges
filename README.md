@@ -440,6 +440,8 @@ This repository contains my solutions of challenges.
 
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 
+- [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
+
 - [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
