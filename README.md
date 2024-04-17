@@ -690,6 +690,8 @@ This repository contains my solutions of challenges.
 
 - [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
+- [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
+
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 - [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
