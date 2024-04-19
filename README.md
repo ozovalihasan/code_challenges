@@ -192,6 +192,8 @@ This repository contains my solutions of challenges.
 
 - [198. House Robber](https://leetcode.com/problems/house-robber/)
 
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
 - [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
