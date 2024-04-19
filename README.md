@@ -1290,6 +1290,8 @@ This repository contains my solutions of challenges.
 
 - [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
 
+- [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
+
 - [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 - [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)
