@@ -806,6 +806,8 @@ This repository contains my solutions of challenges.
 
 - [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 
+- [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
+
 - [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 - [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
