@@ -1,41 +1,41 @@
 # @param {String} s
 # @return {Integer}
+
+"I have solved the challenge, but it is necessary to update it"
+
 def calculate(s)
   s = s.delete("\s")
-  while match = s.match(/\(([\d\+\-]+)\)/)
-    str = match[0]
-    
-    start_index, end_index = match.offset(1)
-    subresult = calculate_inner( s[(start_index)...(end_index)] )
-    if subresult.negative? && s[start_index - 2] == "-"
-      s[(start_index - 2)..end_index] = "+" + (-1 * subresult).to_s
+  s = "0" + s if s[0] == "-"
+  s = "0+" + s if s[0] == "("
+  s.gsub!("((", "(0+(")
+  s.gsub!("(-", "(0-")
+  
+  stack = []
+  current = ""
+
+  s.each_char do |char|
+    if char == "("
+      stack << current
+      current = ""
+    elsif char == ")"
+      stack_popped = stack.pop
+      current = calculate_inner(current) * (stack_popped[-1] + "1").to_i
+      current = "+" + current.to_s if current >= 0
+      
+      current = stack_popped[..-2] + current.to_s
     else
-      s[(start_index - 1)..end_index] = subresult.to_s
+      current << char
     end
+    
   end
-  calculate_inner(s)
+  
+  calculate_inner(current)
 end
 
 def calculate_inner(str)
   
-  str = str.scan(/\d+|[+-]+/) 
-  result = str.shift
-  
-  if result == "-"
-    result = -1 * str.shift.to_i
-  elsif result == "+"
-    result = str.shift.to_i
-  else
-    result = result.to_i
-  end
-
-  str.each_slice(2) do |operator, num|
-    if operator == "+"
-      result += num.to_i
-    else
-      result -= num.to_i
-    end
-  end
-  
+  result = str.match(/\d+/).to_s.to_i
+  str.scan(/[+-]\d+/) { result += Regexp.last_match.to_s.to_i}
+    
   result
 end

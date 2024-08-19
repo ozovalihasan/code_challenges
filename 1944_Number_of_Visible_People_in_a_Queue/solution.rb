@@ -1,5 +1,9 @@
 # @param {Integer[]} heights
 # @return {Integer[]}
+
+Update the challenge
+I solve this challenge but there is a faster solution. Check why it is faster.
+
 def can_see_persons_count(heights)
   possible_heights = [ heights.pop, Float::INFINITY ]
   result = [0]

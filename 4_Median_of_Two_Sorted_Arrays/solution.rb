@@ -1,6 +1,9 @@
 # @param {Integer[]} nums1
 # @param {Integer[]} nums2
 # @return {Float}
+
+"The solution should have O(log(n+m)), but it is O(n + m) for this solution. So it should be updated."
+
 def find_median_sorted_arrays(nums1, nums2)
   result = []
 

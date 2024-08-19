@@ -9,6 +9,7 @@
 # end
 # @param {Integer} n
 # @return {TreeNode[]}
+"I couldn't solve"
 def all_possible_fbt(n)
-    
+  
 end

@@ -5,11 +5,9 @@
 # @return {Integer}
 def num_of_minutes(n, head_id, manager, inform_time)
   @inform_time = inform_time
-  @employees = []
+  @employees = Array.new(n + 1, nil)
   
   manager.each_with_index do |manager_of_employee, employee|
-    next if manager_of_employee == -1
-
     (@employees[manager_of_employee] ||= []) << employee
   end
   

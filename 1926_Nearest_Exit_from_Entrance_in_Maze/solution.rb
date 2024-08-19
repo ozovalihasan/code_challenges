@@ -60,11 +60,11 @@ end
 def check_coor(maze, x_coor, y_coor)
   
   return false unless x_coor.between?(0, @max_row_index) && y_coor.between?(0, @max_col_index)
-  cell = maze[x_coor][y_coor]
 
-  if  cell == "exit"
+  case maze[x_coor][y_coor]
+  when "exit"
     return true
-  elsif cell == "+"
+  when "+"
     return false
   else
     maze[x_coor][y_coor] = "+"

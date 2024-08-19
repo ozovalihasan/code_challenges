@@ -1,12 +1,11 @@
 # @param {Integer[][]} matrix
 # @return {Integer}
 def min_falling_path_sum(matrix)
-  current = matrix.first
+  current = matrix.last
   
-  1.upto(matrix.size - 1).each do |row_index|
-    previous = current
-    previous.unshift Float::INFINITY
-    current = []
+  (matrix.size - 2).downto(0).each do |row_index|
+    previous = [Float::INFINITY, *current]
+    current.clear
     
     matrix[row_index].each_with_index do |cell, index_col|
       current[index_col] = cell + previous.slice(index_col, 3).min

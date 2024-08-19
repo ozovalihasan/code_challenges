@@ -1,5 +1,6 @@
 # @param {Integer[]} nums
 # @return {Boolean}
+"I have solved. But, there is a better solution"
 def find132pattern(nums)
   parts = nums.chunk_while {|first, second| first <= second}.to_a
   result = []
