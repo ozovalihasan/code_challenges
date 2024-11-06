@@ -1338,6 +1338,8 @@ This repository contains my solutions of challenges.
 
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 
+- [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)
+
 - [3046. Split the Array](https://leetcode.com/problems/split-the-array/)
 
 
