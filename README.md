@@ -1342,6 +1342,8 @@ This repository contains my solutions of challenges.
 
 - [3046. Split the Array](https://leetcode.com/problems/split-the-array/)
 
+- [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
+
 
 
 ## Features
