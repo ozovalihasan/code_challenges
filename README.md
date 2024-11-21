@@ -1190,6 +1190,8 @@ This repository contains my solutions of challenges.
 
 - [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
 
+- [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)
+
 - [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
 
 - [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
