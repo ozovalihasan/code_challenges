@@ -9,20 +9,23 @@ def take_characters(str, chr_count)
   
   return -1 unless CHECKED_CHARACTERS.all? { |char| char_counts[char] >= chr_count } 
 
-  min_time = chars.count
-  right_index = 0
-  (chars.count - 1).downto(0) do |left_index|
-    left_char = chars[left_index]
-    char_counts[left_char] -= 1
+  left_index = -1
+  right_index = -1
+  max_gap = right_index - left_index
 
-    until char_counts[left_char] >= chr_count
-      right_index -= 1
-      right_char = chars[right_index]
-      char_counts[right_char] += 1
+  until right_index == chars.size - 1
+    right_index += 1
+    right_char = chars[right_index]
+    char_counts[right_char] -= 1
+
+    until char_counts[right_char] >= chr_count
+      left_index += 1
+      left_char = chars[left_index]
+      char_counts[left_char] += 1
     end
 
-    min_time = [min_time, left_index - right_index].min
+    max_gap = [max_gap, right_index - left_index].max
   end
 
-  min_time
+  str.size - max_gap
 end
