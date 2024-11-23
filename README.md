@@ -1082,6 +1082,8 @@ This repository contains my solutions of challenges.
 
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 
+- [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/)
+
 - [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
 
 - [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
