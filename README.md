@@ -1152,6 +1152,8 @@ This repository contains my solutions of challenges.
 
 - [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
 
+- [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+
 - [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
 
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
