@@ -1340,6 +1340,8 @@ This repository contains my solutions of challenges.
 
 - [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 
+- [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)
+
 - [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
 
 - [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)
