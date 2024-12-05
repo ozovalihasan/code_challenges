@@ -1232,6 +1232,8 @@ This repository contains my solutions of challenges.
 
 - [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 
+- [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
+
 - [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 
 - [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
