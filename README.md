@@ -1312,6 +1312,8 @@ This repository contains my solutions of challenges.
 
 - [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 
+- [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/)
+
 - [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
 
 - [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
