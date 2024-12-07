@@ -1046,6 +1046,8 @@ This repository contains my solutions of challenges.
 
 - [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 
+- [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
+
 - [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
