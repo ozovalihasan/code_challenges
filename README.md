@@ -1142,6 +1142,8 @@ This repository contains my solutions of challenges.
 
 - [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
 
+- [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/)
+
 - [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 
 - [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
