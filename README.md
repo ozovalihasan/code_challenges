@@ -1376,6 +1376,8 @@ This repository contains my solutions of challenges.
 
 - [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
 
+- [3152. Special Array II](https://leetcode.com/problems/special-array-ii/)
+
 - [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)
 
 
