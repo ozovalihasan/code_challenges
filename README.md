@@ -1346,6 +1346,8 @@ This repository contains my solutions of challenges.
 
 - [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 
+- [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
+
 - [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 
 - [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)
