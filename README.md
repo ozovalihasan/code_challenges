@@ -1348,6 +1348,8 @@ This repository contains my solutions of challenges.
 
 - [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)
 
+- [2762. Continuous Subarrays](https://leetcode.com/problems/greatest-common-divisor-traversal/)
+
 - [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 
 - [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
