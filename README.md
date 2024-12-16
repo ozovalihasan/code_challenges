@@ -1392,6 +1392,8 @@ This repository contains my solutions of challenges.
 
 - [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)
 
+- [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
+
 
 
 ## Features
