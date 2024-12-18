@@ -906,6 +906,8 @@ This repository contains my solutions of challenges.
 
 - [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
 
+- [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 - [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
