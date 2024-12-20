@@ -1280,6 +1280,8 @@ This repository contains my solutions of challenges.
 
 - [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
+- [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
+
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
 - [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
