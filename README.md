@@ -1374,6 +1374,8 @@ This repository contains my solutions of challenges.
 
 - [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
 
+- [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
+
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
 
 - [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
