@@ -1378,6 +1378,8 @@ This repository contains my solutions of challenges.
 
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
 
+- [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)
+
 - [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
 
 - [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
