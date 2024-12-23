@@ -1300,6 +1300,8 @@ This repository contains my solutions of challenges.
 
 - [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
 
+- [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
+
 - [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 
 - [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)
