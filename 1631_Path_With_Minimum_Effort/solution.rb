@@ -1,42 +1,62 @@
-"I couldn't solve"
-
 STEPS = [[0, 1], [1, 0], [-1, 0], [0, -1]]
-# @param {Integer[][]} heights
-# @return {Integer}
+
+# # @param {Integer[][]} heights
+# # @return {Integer}
 def minimum_effort_path(heights)
   @heights = heights
   @max_row_index = heights.size - 1
   @max_col_index = heights.first.size - 1
+
+  @checked_cells = Array.new(heights.size) { Array.new(heights.first.size, false) }
+
+  @not_checked_cells = [[0, 0, 0]]
   
+  @reached = false
+  @max_effort = 0
 
-  @efforts = Array.new(heights.size) {Array.new(heights.first.size, Float::INFINITY)}
-  @necessary_efforts = [[0, 0, 0]]
-
-  until @necessary_efforts.empty? || @efforts[@max_row_index][@max_col_index] <= @necessary_efforts.first.first  
-    checked_effort = @necessary_efforts.pop
-    check_cell(*checked_effort)
+  until @reached 
+    row_index, col_index, necessary_effort = @not_checked_cells.shift
+    @max_effort = necessary_effort
+    
+    next if @checked_cells[row_index][col_index]
+    
+    check_all_sides(row_index, col_index)
   end
 
-  @efforts[@max_row_index][@max_col_index]
+  @max_effort
 end
 
-def check_cell(necessary_effort, row_index, col_index)
-  return unless necessary_effort < @efforts[row_index][col_index]
-  @efforts[row_index][col_index] = necessary_effort
+def check_all_sides(row_index, col_index)
+  @checked_cells[row_index][col_index] = true
 
-  cell = @heights[row_index][col_index]
+  if row_index == @max_row_index && col_index == @max_col_index
+    @reached = true
+    return 
+  end
+
+  height = @heights[row_index][col_index]
   STEPS.each do |step_row, step_col|
-    update_cell(necessary_effort, row_index + step_row, col_index + step_col, cell)
+    new_row = row_index + step_row
+    new_col = col_index + step_col
+
+    check_cell(new_row, new_col, height)
   end
 end
 
-def update_cell(necessary_effort, row_index, col_index, previous)
+def check_cell(row_index, col_index, previous_height)
   return unless within_bounds?(row_index, col_index)
-  cell = @heights[row_index][col_index]
-  effort = [(previous - cell).abs, necessary_effort].max
-  index = @necessary_efforts.bsearch_index {|previous_effort, _, _| previous_effort >= effort} || @necessary_efforts.size
+  return if @checked_cells[row_index][col_index]
+  return if @reached
+  
+  height = @heights[row_index][col_index]
+  current_effort = (height - previous_height).abs
 
-  @necessary_efforts.insert(index, [effort, row_index, col_index])
+  if current_effort <= @max_effort
+    check_all_sides(row_index, col_index)
+  else
+    index = @not_checked_cells.bsearch_index { |_, _, effort| current_effort <= effort } || @not_checked_cells.size
+    @not_checked_cells.insert(index, [row_index, col_index, current_effort])
+  end
 end
 
 def within_bounds?(row_index, col_index)
