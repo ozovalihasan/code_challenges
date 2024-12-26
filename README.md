@@ -990,6 +990,8 @@ This repository contains my solutions of challenges.
 
 - [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
 
+- [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
