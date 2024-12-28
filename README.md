@@ -482,6 +482,8 @@ This repository contains my solutions of challenges.
 
 - [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
+- [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
+
 - [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
