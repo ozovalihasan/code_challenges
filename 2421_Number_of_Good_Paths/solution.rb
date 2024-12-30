@@ -2,69 +2,36 @@
 # @param {Integer[][]} edges
 # @return {Integer}
 
-"I couldn't solve the challenge"
-
 def number_of_good_paths(vals, edges)
-  tree = Tree.new(vals, edges)  
-  values = Hash.new(0)
-  tree.root.check
-  vals.size + TreeNode.result
+  @vals = vals
+  @nodes = []
+  edges.each do |starting_node, ending_node|
+    (@nodes[starting_node] ||= []) << ending_node
+    (@nodes[ending_node] ||= []) << starting_node  
+  end
+  @total = Hash.new 0
+  
+  node = @nodes.index { |connected_nodes| connected_nodes.size == 1 }
+  check(node) if node
+  @total.values.sum + vals.size
 end
 
-class Tree
-  attr_reader :root
-  
-  def initialize(vals, edges)
-    starting_node = 0
-    nodes = { starting_node => TreeNode.new( vals[starting_node] )}
-    edges.each do |node1, node2|
-      if nodes[node1]
-        nodes[node2] = TreeNode.new(vals[node2])
-        nodes[node1].nodes << nodes[node2]
-      else
-        nodes[node1] = TreeNode.new(vals[node1])
-        nodes[node2].nodes << nodes[node1]
-      end
+def check(node)
+  current_val = @vals[node]
+  result = { current_val => 1 } 
+
+  until @nodes[node].empty?
+    next_node = @nodes[node].pop
+    @nodes[next_node].delete(node)
+
+    result.merge!(check(next_node)) do |key, old_val, new_val|
+      @total[key] += old_val * new_val unless key < current_val
+      old_val + new_val
     end
     
-    @root = nodes[starting_node]
-    TreeNode.clear_result 
   end
   
-end
+  result.select! { |key, _val| key >= current_val }    
 
-class TreeNode
-  attr_reader :nodes, :val
-  
-  def initialize(val)
-    @nodes = []
-    @val = val
-  end
-  
-  def check
-    records = Hash.new(0)
-    records[val] += 1
-    
-    nodes.map! { |node| node.check.select { |sub_key, _| sub_key >= val } }
-
-    union(records)
-    
-  end
-
-  def union(records)
-    records.merge!(*nodes) do |_, first, second|
-      @@result += (first * second)
-      first + second 
-    end
-    
-    records
-  end
-
-  def self.result 
-    @@result
-  end
-
-  def self.clear_result 
-    @@result = 0
-  end
+  result
 end
