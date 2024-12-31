@@ -2,28 +2,21 @@
 # @param {Integer[]} costs
 # @return {Integer}
 def mincost_tickets(days, costs)
-  total_costs = Hash.new(Float::INFINITY)
-  total_costs[days.first] = 0
-  costs_until_today = []
+  durations = [1, 7, 30]
+  cost_pairs = costs.zip(durations)
+  total_costs = Array.new(days.last + durations.last + 1, Float::INFINITY)
+  total_costs[1] = 0
+  last_checked_day = 1
   
-  (days.first).upto(days.last) do |today_number|
-    costs_until_today << total_costs[today_number]
+  days.each do |day|
+    current_cost = total_costs[last_checked_day..day].min 
     
-    if days.include? today_number
-      min_cost_until_today = costs_until_today.min
-
-      buy_ticket(min_cost_until_today, today_number, total_costs, costs[0], 1)
-      buy_ticket(min_cost_until_today, today_number, total_costs, costs[1], 7)
-      buy_ticket(min_cost_until_today, today_number, total_costs, costs[2], 30)
-      
-      costs_until_today = []
+    cost_pairs.each do |cost, duration|
+      total_costs[day + duration] = [current_cost + cost, total_costs[day + duration]].min
     end
 
+    last_checked_day = day + 1
   end
   
-  total_costs.select {|day, _| day > days.last }.values.min
-end
-
-def buy_ticket(min_cost_until_today, today_number, total_costs, cost, ticket_length)
-  total_costs[today_number + ticket_length] = [min_cost_until_today + cost, total_costs[today_number + ticket_length]].min
+  total_costs.last(durations.last).min  
 end
