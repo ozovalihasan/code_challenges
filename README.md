@@ -1230,6 +1230,8 @@ This repository contains my solutions of challenges.
 
 - [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
 
+- [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)
+
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
