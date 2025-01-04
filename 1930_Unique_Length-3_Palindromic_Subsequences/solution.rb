@@ -1,17 +1,17 @@
-# @param {String} s
+# @param {String} str
 # @return {Integer}
 def count_palindromic_subsequence(str)
   indices = {}
-  str = str.chars
-  
-  str.each_with_index do |char, index|
-    indices[char] ||= [index, index]
-    indices[char][-1] = index
+  str = str.chars.map(&:ord)
+   
+  str.each_with_index do |num, index|
+    indices[num] ||= []
+    indices[num] << index
   end
-
-  indices.values.sum do |char_indices|
-    next 0 if char_indices.first == char_indices.last
+  
+  indices.values.sum do |num_indices|
+    next 0 if num_indices.first == num_indices.last
     
-    str[char_indices.first + 1..char_indices.last - 1].uniq.size
+    str[num_indices.first + 1..num_indices.last - 1].uniq.count
   end
 end
