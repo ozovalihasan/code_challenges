@@ -1410,6 +1410,8 @@ This repository contains my solutions of challenges.
 
 - [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)
 
+- [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
+
 - [3046. Split the Array](https://leetcode.com/problems/split-the-array/)
 
 - [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
