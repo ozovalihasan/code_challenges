@@ -1204,6 +1204,8 @@ This repository contains my solutions of challenges.
 
 - [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/)
 
+- [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
+
 - [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
 
 - [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
