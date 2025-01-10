@@ -2,18 +2,17 @@
 # @param {String[]} words2
 # @return {String[]}
 def word_subsets(words1, words2)
-
-  hash2 = {}
-  hash2.default = 0
+  counts = {}
+  counts.default = 0
   words2.each do |word2|
-    word2.chars.uniq.each do |letter|
-      hash2[letter] = word2.count(letter) if word2.count(letter) > hash2[letter] 
+    word2.chars.tally.each do |letter, count|
+      counts[letter] = count if count > counts[letter] 
       
     end
   end
   
   words1.select do |word|
-    hash2.all? do |key2, value2| 
+    counts.all? do |key2, value2| 
       word.count(key2) >= value2
     end
   end
