@@ -866,6 +866,8 @@ This repository contains my solutions of challenges.
 
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 
+- [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+
 - [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 
 - [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
