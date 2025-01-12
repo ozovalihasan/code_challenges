@@ -15,15 +15,17 @@ def can_be_valid(str, locked)
       else
         min -= 1
         max -= 1
+
+        return false if max.negative?
       end
     else
-      max += 1
       min -= 1
+      max += 1
     end
 
     min = 0 if min.negative?
-    return false if max.negative?
   end
+  
   return false if min.positive?
   
   true
