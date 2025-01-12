@@ -1182,6 +1182,8 @@ This repository contains my solutions of challenges.
 
 - [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)
 
+- [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 
 - [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
