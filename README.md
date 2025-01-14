@@ -1370,6 +1370,8 @@ This repository contains my solutions of challenges.
 
 - [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)
 
+- [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
 - [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)
