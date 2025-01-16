@@ -1302,6 +1302,8 @@ This repository contains my solutions of challenges.
 
 - [2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 
+- [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)
+
 - [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/)
 
 - [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
