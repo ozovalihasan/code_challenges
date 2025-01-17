@@ -1378,6 +1378,8 @@ This repository contains my solutions of challenges.
 
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
+- [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)
+
 - [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)
 
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
