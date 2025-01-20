@@ -1378,6 +1378,8 @@ This repository contains my solutions of challenges.
 
 - [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 
+- [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)
+
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)
 
 - [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)
