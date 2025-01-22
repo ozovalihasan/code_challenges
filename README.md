@@ -1068,6 +1068,8 @@ This repository contains my solutions of challenges.
 
 - [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
+- [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)
+
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
