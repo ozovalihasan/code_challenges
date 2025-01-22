@@ -7,7 +7,7 @@ describe 'Solution' do
   describe '#highest_peak' do
     examples.each_with_index do |is_water, index|
       it "returns an integer matrix height of size m x n where height[i][j] is cell (i, j)'s height" do
-        expect(highest_peak(is_water)).to eq(results[index])
+        expect(highest_peak(is_water)).to match_array(results[index])
       end
     end
   end
