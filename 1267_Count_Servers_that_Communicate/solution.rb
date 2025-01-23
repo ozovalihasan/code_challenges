@@ -1,23 +1,25 @@
 # @param {Integer[][]} grid
 # @return {Integer}
 def count_servers(grid)
-  rows = Array.new(grid.size) { [] }
-  cols = Array.new(grid.first.size) { [] }
-  result = Set.new
+  row_counts = grid.map(&:sum)
+  col_counts = grid.transpose.map(&:sum)
+  
+  selected_cols = []
+  col_counts.each_with_index do |count, index|
+    selected_cols << index if count == 1
+  end
+
+  result = (row_counts.sum + col_counts.sum) / 2
+
+  return result if selected_cols.empty?
 
   grid.each_with_index do |row, row_index|
-    row.each_with_index do |cell, col_index|
-      next unless cell == 1
-      
-      result << [row_index, col_index] if rows[row_index].size >= 1
-      result << [row_index, rows[row_index].first] if rows[row_index].size == 1
-      rows[row_index] << col_index 
+    next unless row_counts[row_index] == 1
 
-      result << [row_index, col_index] if cols[col_index].size >= 1
-      result << [cols[col_index].first, col_index] if cols[col_index].size == 1
-      cols[col_index] << row_index
+    result -= selected_cols.count do |col_index|
+      row[col_index] == 1 && col_counts[col_index] == 1
     end
   end
 
-  result.size
+  result
 end
