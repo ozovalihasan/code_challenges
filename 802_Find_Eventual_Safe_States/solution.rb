@@ -11,7 +11,6 @@ def eventual_safe_nodes(graph)
 end
 
 def terminal_node?(node_index)
-  p node_index
   return @terminal_nodes[node_index] if @checked[node_index]
 
   @checked[node_index] = true
