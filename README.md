@@ -1196,6 +1196,8 @@ This repository contains my solutions of challenges.
 
 - [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 
+- [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
+
 - [2129. Capitalize the Title](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 
 - [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
