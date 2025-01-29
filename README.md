@@ -480,6 +480,8 @@ This repository contains my solutions of challenges.
 
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 
+- [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+
 - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
 
 - [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
