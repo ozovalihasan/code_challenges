@@ -576,6 +576,8 @@ This repository contains my solutions of challenges.
 
 - [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 
+- [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
+
 - [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 
 - [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
