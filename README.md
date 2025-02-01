@@ -1452,6 +1452,8 @@ This repository contains my solutions of challenges.
 
 - [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
 
+- [3151. Special Array I](https://leetcode.com/problems/special-array-i/)
+
 - [3152. Special Array II](https://leetcode.com/problems/special-array-ii/)
 
 - [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)
