@@ -1164,6 +1164,8 @@ This repository contains my solutions of challenges.
 
 - [2017. Grid Game](https://leetcode.com/problems/grid-game/)
 
+- [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+
 - [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
 
 - [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)
