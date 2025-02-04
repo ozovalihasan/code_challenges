@@ -1354,6 +1354,8 @@ This repository contains my solutions of challenges.
 
 - [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
 
+- [2493. Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
+
 - [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)
 
 - [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
