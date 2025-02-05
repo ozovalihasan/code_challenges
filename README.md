@@ -1080,6 +1080,8 @@ This repository contains my solutions of challenges.
 
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 
+- [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
+
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 
 - [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)
