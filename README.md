@@ -1052,6 +1052,8 @@ This repository contains my solutions of challenges.
 
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
+- [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)
+
 - [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
 
 - [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
