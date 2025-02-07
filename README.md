@@ -1466,6 +1466,8 @@ This repository contains my solutions of challenges.
 
 - [3152. Special Array II](https://leetcode.com/problems/special-array-ii/)
 
+- [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)
+
 - [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)
 
 - [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)
