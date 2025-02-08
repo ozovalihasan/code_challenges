@@ -1288,6 +1288,8 @@ This repository contains my solutions of challenges.
 
 - [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 
+- [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)
+
 - [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
 
 - [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
