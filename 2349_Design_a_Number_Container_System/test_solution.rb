@@ -11,7 +11,7 @@ describe 'Solution' do
 
         actions.zip(params).each_with_index do |(action, param), index2|
           case action
-          when 'UndergroundSystem'
+          when 'NumberContainers'
             number_containers = NumberContainers.new
           when 'change'
             number_containers.change(*param)
