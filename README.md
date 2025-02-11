@@ -1134,6 +1134,8 @@ This repository contains my solutions of challenges.
 
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 
+- [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
+
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 
 - [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
