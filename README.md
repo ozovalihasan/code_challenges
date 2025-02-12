@@ -1288,6 +1288,8 @@ This repository contains my solutions of challenges.
 
 - [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
+- [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
+
 - [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 
 - [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)
