@@ -1464,6 +1464,8 @@ This repository contains my solutions of challenges.
 
 - [3046. Split the Array](https://leetcode.com/problems/split-the-array/)
 
+- [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)
+
 - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 
 - [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
