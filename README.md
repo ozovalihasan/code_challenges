@@ -848,6 +848,8 @@ This repository contains my solutions of challenges.
 
 - [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
+- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+
 - [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 - [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
