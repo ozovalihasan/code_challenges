@@ -1,13 +1,23 @@
 class ProductOfNumbers
-  def initialize; end
+  def initialize()
+    @products = [1]
+  end
 
   #   :type num: Integer
   #   :rtype: Void
-  def add(num); end
+  def add(num)
+    return @products.clear << 1 if num.zero?
+    
+    @products << (num * @products.last)
+  end
 
   #   :type k: Integer
   #   :rtype: Integer
-  def get_product(k); end
+  def get_product(k)
+    return 0 if k >= @products.size
+    
+    @products.last / @products[-k - 1]
+  end
 end
 
 # Your ProductOfNumbers object will be instantiated and called as such:
