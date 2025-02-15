@@ -1416,6 +1416,8 @@ This repository contains my solutions of challenges.
 
 - [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)
 
+- [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)
+
 - [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)
 
 - [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
