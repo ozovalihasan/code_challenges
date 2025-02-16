@@ -1052,6 +1052,8 @@ This repository contains my solutions of challenges.
 
 - [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
 
+- [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)
+
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 - [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)
