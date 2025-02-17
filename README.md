@@ -744,6 +744,8 @@ This repository contains my solutions of challenges.
 
 - [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
 
+- [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
+
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
 - [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)
