@@ -1316,6 +1316,8 @@ This repository contains my solutions of challenges.
 
 - [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)
 
+- [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
+
 - [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
 
 - [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)
