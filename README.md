@@ -806,6 +806,8 @@ This repository contains my solutions of challenges.
 
 - [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 
+- [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
+
 - [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
 - [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
