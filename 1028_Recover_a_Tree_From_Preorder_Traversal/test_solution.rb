@@ -8,7 +8,7 @@ describe 'Solution' do
   describe '#recover_from_preorder' do
     examples.each_with_index do |traversal, index|
       it 'recovers the tree and return its root' do
-        expect(recover_from_preorder(traversal).to_a).to match_array(results[index])
+        expect(recover_from_preorder(traversal).to_a).to eq(results[index])
       end
     end
   end

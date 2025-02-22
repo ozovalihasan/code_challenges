@@ -9,19 +9,28 @@ class TreeNode
   end
 
   def to_a
-    node = self
-    arr = []
-    queue = [[self, 1]]
-
+    result = []
+    queue = [self]
+    
     until queue.empty?
       node = queue.shift
-      next if node.first.nil?
-      arr[node.last - 1] = node.first.val
-
-      queue << [node.first.left, node.last * 2 ]
-      queue << [node.first.right, node.last * 2 + 1  ]
+      if node.nil?
+        result << nil
+      else
+        result << node.val
+        if node.left || node.right
+          queue << node.left
+          queue << node.right
+        end
+      end
     end
-    arr
+    
+    # Remove trailing nils
+    while result.last.nil?
+      result.pop
+    end
+    
+    result
   end
   
 end
