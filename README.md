@@ -1362,6 +1362,8 @@ This repository contains my solutions of challenges.
 
 - [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)
 
+- [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
+
 - [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
 
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
