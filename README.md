@@ -960,6 +960,8 @@ This repository contains my solutions of challenges.
 
 - [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 
+- [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)
+
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
 - [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)
