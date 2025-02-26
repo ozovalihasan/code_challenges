@@ -1076,6 +1076,8 @@ This repository contains my solutions of challenges.
 
 - [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
 
+- [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
+
 - [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 
 - [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
