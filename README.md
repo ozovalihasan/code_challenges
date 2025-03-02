@@ -1414,6 +1414,8 @@ This repository contains my solutions of challenges.
 
 - [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
 
+- [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
+
 - [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 - [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)
