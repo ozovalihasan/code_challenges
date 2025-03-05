@@ -1102,6 +1102,8 @@ This repository contains my solutions of challenges.
 
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 
+- [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
+
 - [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
