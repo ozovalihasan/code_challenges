@@ -1486,6 +1486,8 @@ This repository contains my solutions of challenges.
 
 - [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 
+- [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)
+
 - [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 
 - [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)
