@@ -1400,6 +1400,8 @@ This repository contains my solutions of challenges.
 
 - [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 
+- [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)
+
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
 - [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
