@@ -1522,6 +1522,8 @@ This repository contains my solutions of challenges.
 
 - [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)
 
+- [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)
+
 - [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)
 
 - [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)
