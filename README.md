@@ -1530,6 +1530,8 @@ This repository contains my solutions of challenges.
 
 - [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
+- [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)
+
 
 
 ## Features
