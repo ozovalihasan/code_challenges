@@ -1408,6 +1408,8 @@ This repository contains my solutions of challenges.
 
 - [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 
+- [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
+
 - [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 
 - [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
