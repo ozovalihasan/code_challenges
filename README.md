@@ -1536,6 +1536,8 @@ This repository contains my solutions of challenges.
 
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)
 
+- [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)
+
 
 
 ## Features
