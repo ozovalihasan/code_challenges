@@ -1270,6 +1270,8 @@ This repository contains my solutions of challenges.
 
 - [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 
+- [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)
+
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
 
 - [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
