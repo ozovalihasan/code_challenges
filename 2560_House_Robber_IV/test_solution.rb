@@ -6,7 +6,7 @@ describe 'Solution' do
 
   describe '#min_capability' do
     examples.each_slice(2).each_with_index do |(nums, min_house_num), index|
-      it 'returns the maximum number of candies each child can get' do
+      it 'returns the minimum capability of the robber out of all the possible ways to steal at least k houses' do
         expect(min_capability(nums, min_house_num)).to eq(results[index])
       end
     end
