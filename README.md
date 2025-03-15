@@ -1426,6 +1426,8 @@ This repository contains my solutions of challenges.
 
 - [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
 
+- [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/)
+
 - [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
 
 - [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
