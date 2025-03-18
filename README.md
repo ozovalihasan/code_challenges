@@ -1352,6 +1352,8 @@ This repository contains my solutions of challenges.
 
 - [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)
 
+- [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)
+
 - [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
 
 - [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)
