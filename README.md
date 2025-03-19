@@ -1532,6 +1532,8 @@ This repository contains my solutions of challenges.
 
 - [3174. Clear Digits](https://leetcode.com/problems/clear-digits/)
 
+- [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)
+
 - [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)
 
 - [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)
