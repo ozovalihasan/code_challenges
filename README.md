@@ -1522,6 +1522,8 @@ This repository contains my solutions of challenges.
 
 - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 
+- [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/)
+
 - [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
 
 - [3151. Special Array I](https://leetcode.com/problems/special-array-i/)
