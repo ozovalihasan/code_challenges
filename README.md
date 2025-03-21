@@ -1228,6 +1228,8 @@ This repository contains my solutions of challenges.
 
 - [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)
 
+- [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
+
 - [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
 
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
