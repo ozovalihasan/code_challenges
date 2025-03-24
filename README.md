@@ -1182,6 +1182,8 @@ This repository contains my solutions of challenges.
 
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
+- [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
 - [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
 
 - [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
