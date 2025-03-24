@@ -1538,6 +1538,8 @@ This repository contains my solutions of challenges.
 
 - [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)
 
+- [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/)
+
 - [3174. Clear Digits](https://leetcode.com/problems/clear-digits/)
 
 - [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)
