@@ -1558,6 +1558,8 @@ This repository contains my solutions of challenges.
 
 - [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)
 
+- [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)
+
 
 
 ## Features
