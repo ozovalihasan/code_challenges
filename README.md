@@ -1502,6 +1502,8 @@ This repository contains my solutions of challenges.
 
 - [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
 
+- [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/)
+
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
 
 - [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)
