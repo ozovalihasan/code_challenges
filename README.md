@@ -1504,6 +1504,8 @@ This repository contains my solutions of challenges.
 
 - [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/)
 
+- [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
+
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
 
 - [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)
