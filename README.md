@@ -1572,6 +1572,8 @@ This repository contains my solutions of challenges.
 
 - [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)
 
+- [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)
+
 - [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)
 
 
