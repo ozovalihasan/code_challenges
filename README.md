@@ -1168,6 +1168,8 @@ This repository contains my solutions of challenges.
 
 - [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
 
+- [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
+
 - [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 - [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
