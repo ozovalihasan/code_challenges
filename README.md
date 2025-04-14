@@ -974,6 +974,8 @@ This repository contains my solutions of challenges.
 
 - [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)
 
+- [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
+
 - [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
 
 - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
