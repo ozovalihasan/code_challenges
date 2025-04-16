@@ -1432,6 +1432,8 @@ This repository contains my solutions of challenges.
 
 - [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
 
+- [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)
+
 - [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 
 - [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
