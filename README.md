@@ -1262,6 +1262,8 @@ This repository contains my solutions of challenges.
 
 - [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
 
+- [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/)
+
 - [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)
 
 - [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
