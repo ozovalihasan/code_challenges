@@ -1508,6 +1508,8 @@ This repository contains my solutions of challenges.
 
 - [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 
+- [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)
+
 - [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)
 
 - [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)
