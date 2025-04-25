@@ -1514,6 +1514,8 @@ This repository contains my solutions of challenges.
 
 - [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)
 
+- [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)
+
 - [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
 
 - [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)
