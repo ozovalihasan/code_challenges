@@ -1322,6 +1322,8 @@ This repository contains my solutions of challenges.
 
 - [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
+- [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)
+
 - [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
 
 - [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/)
