@@ -718,6 +718,8 @@ This repository contains my solutions of challenges.
 
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 
+- [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
 - [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
