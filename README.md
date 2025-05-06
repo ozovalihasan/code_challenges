@@ -1172,6 +1172,8 @@ This repository contains my solutions of challenges.
 
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 
+- [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+
 - [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
 
 - [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
