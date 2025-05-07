@@ -1598,6 +1598,8 @@ This repository contains my solutions of challenges.
 
 - [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)
 
+- [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)
+
 - [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)
 
 - [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)
