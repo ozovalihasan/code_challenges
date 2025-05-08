@@ -1600,6 +1600,8 @@ This repository contains my solutions of challenges.
 
 - [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)
 
+- [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)
+
 - [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)
 
 - [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)
