@@ -1536,6 +1536,8 @@ This repository contains my solutions of challenges.
 
 - [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 
+- [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)
+
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
 
 - [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)
