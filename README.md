@@ -1238,6 +1238,8 @@ This repository contains my solutions of challenges.
 
 - [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
 
+- [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)
+
 - [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
 
 - [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
