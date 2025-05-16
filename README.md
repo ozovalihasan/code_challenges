@@ -1538,6 +1538,8 @@ This repository contains my solutions of challenges.
 
 - [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 
+- [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)
+
 - [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)
 
 - [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/)
